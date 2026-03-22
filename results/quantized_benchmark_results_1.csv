@@ -1,0 +1,1133 @@
+model,category,prompt_id,prompt,response_time_s,words_per_second,word_count,memory_mb,error,timestamp,response_text
+llama3.2:3b-instruct-q4_K_M,simple_facts,1,What is the capital of France?,4.473,1.34,6,0.9,,2026-03-22T09:28:54.888153,The capital of France is Paris.
+llama3.2:3b-instruct-q4_K_M,simple_facts,2,What is 15 multiplied by 13?,1.26,3.97,5,0.0,,2026-03-22T09:28:56.148339,15 × 13 = 195
+llama3.2:3b-instruct-q4_K_M,simple_facts,3,Name 3 planets in the solar system.,3.14,4.46,14,0.01,,2026-03-22T09:28:59.288265,"Here are three planets in our solar system:
+
+1. Earth
+2. Mars
+3. Jupiter"
+llama3.2:3b-instruct-q4_K_M,simple_facts,4,What is the chemical symbol for gold?,2.556,5.48,14,0.0,,2026-03-22T09:29:01.844040,"The chemical symbol for gold is Au. It comes from the Latin word ""Aurum""."
+llama3.2:3b-instruct-q4_K_M,simple_facts,5,How many continents are there on Earth?,4.675,4.71,22,0.0,,2026-03-22T09:29:06.519331,"There are 7 continents on Earth:
+
+1. Africa
+2. Antarctica
+3. Asia
+4. Australia
+5. Europe
+6. North America
+7. South America"
+llama3.2:3b-instruct-q4_K_M,simple_facts,6,What is the speed of light in km/s?,2.752,5.09,14,0.0,,2026-03-22T09:29:09.271862,"The speed of light in a vacuum is approximately 299,792 kilometers per second (km/s)."
+llama3.2:3b-instruct-q4_K_M,simple_facts,7,Who wrote Romeo and Juliet?,7.517,6.92,52,0.0,,2026-03-22T09:29:16.789475,"Romeo and Juliet, the tragic love story, was written by William Shakespeare. The exact date of its composition is not known, but it is believed to have been written between 1591 and 1595. It is one of Shakespeare's most famous plays and has become an iconic part of literature and popular culture."
+llama3.2:3b-instruct-q4_K_M,simple_facts,8,What year did World War II end?,11.491,5.83,67,0.0,,2026-03-22T09:29:28.280676,"World War II ended in two stages:
+
+1. Germany's unconditional surrender on May 8, 1945 (known as V-E Day or Victory in Europe Day).
+2. Japan's formal surrender on September 2, 1945 (known as V-J Day or Victory over Japan Day), following the atomic bombings of Hiroshima and Nagasaki.
+
+So, while the war in Europe ended in May 1945, the war with Japan continued until September 1945."
+llama3.2:3b-instruct-q4_K_M,simple_facts,9,What is the largest ocean on Earth?,7.701,5.97,46,0.0,,2026-03-22T09:29:35.981711,"The Pacific Ocean is the largest of the world's five oceans, covering approximately 155.6 million square kilometers (60.1 million square miles). It accounts for approximately 46% of the Earth's total ocean area and is home to many island nations, including Hawaii, Japan, Australia, and New Zealand."
+llama3.2:3b-instruct-q4_K_M,simple_facts,10,How many sides does a hexagon have?,5.6,5.54,31,0.0,,2026-03-22T09:29:41.581996,"A hexagon has 6 sides. The prefix ""hex-"" means six, and the suffix ""-gon"" refers to a polygon (a shape with straight sides). So, a hexagon is literally a six-sided polygon!"
+llama3.2:3b-instruct-q4_K_M,simple_facts,11,What is the boiling point of water in Celsius?,2.805,4.99,14,0.0,,2026-03-22T09:29:44.387436,The boiling point of water is 100 degrees Celsius (°C) at standard atmospheric pressure.
+llama3.2:3b-instruct-q4_K_M,simple_facts,12,Who painted the Mona Lisa?,7.22,7.06,51,0.0,,2026-03-22T09:29:51.607746,"The Mona Lisa was painted by the Italian artist Leonardo da Vinci. He is widely considered one of the greatest painters of all time, and the Mona Lisa is arguably his most famous work. The painting is believed to have been created between 1503 and 1506, during the Italian Renaissance period."
+llama3.2:3b-instruct-q4_K_M,simple_facts,13,What is the square root of 144?,1.83,3.82,7,0.0,,2026-03-22T09:29:53.438087,The square root of 144 is 12.
+llama3.2:3b-instruct-q4_K_M,simple_facts,14,What is the capital of Japan?,1.306,4.6,6,0.0,,2026-03-22T09:29:54.743940,The capital of Japan is Tokyo.
+llama3.2:3b-instruct-q4_K_M,simple_facts,15,How many bones are in the adult human body?,6.894,7.11,49,0.0,,2026-03-22T09:30:01.637937,"There are 206 bones in the adult human body. This number can vary slightly from person to person, as some individuals may have extra or missing bones due to various genetic or developmental conditions. However, 206 is the typical number of bones found in a healthy adult human skeleton."
+llama3.2:3b-instruct-q4_K_M,simple_facts,16,What gas do plants absorb during photosynthesis?,10.038,5.58,56,0.0,,2026-03-22T09:30:11.676386,"During photosynthesis, plants absorb carbon dioxide (CO2) from the air. They use energy from sunlight to convert CO2 and water into glucose and oxygen. The equation for photosynthesis is:
+
+6 CO2 + 6 H2O + light energy → C6H12O6 (glucose) + 6 O2
+
+So, plants absorb carbon dioxide as a key component of the photosynthetic process."
+llama3.2:3b-instruct-q4_K_M,simple_facts,17,What is the currency of the United Kingdom?,4.066,5.9,24,0.0,,2026-03-22T09:30:15.742653,"The official currency of the United Kingdom is the Pound Sterling (GBP). It is commonly abbreviated as ""£"" and is divided into 100 pence."
+llama3.2:3b-instruct-q4_K_M,simple_facts,18,Name the four blood types in the ABO system.,4.324,5.09,22,0.0,,2026-03-22T09:30:20.066638,"The four main blood types in the ABO system are:
+
+1. Type A
+2. Type B
+3. Type AB
+4. Type O"
+llama3.2:3b-instruct-q4_K_M,simple_facts,19,What planet is known as the Red Planet?,4.861,5.76,28,0.0,,2026-03-22T09:30:24.927395,"Mars is commonly referred to as the ""Red Planet"" due to its reddish appearance, which is caused by iron oxide (or rust) in the planet's soil and rocks."
+llama3.2:3b-instruct-q4_K_M,simple_facts,20,How many zeros are in one million?,2.613,3.83,10,0.0,,2026-03-22T09:30:27.542194,"There are 6 zeros in the number one million (1,000,000)."
+llama3.2:3b-instruct-q4_K_M,reasoning,21,"If a train travels 60km/hr for 2.5 hours, how far does it travel? Show steps.",10.851,5.07,55,0.0,,2026-03-22T09:30:38.393998,"To find the distance traveled by the train, we need to multiply the speed of the train (in km/hr) by the time it traveled.
+
+Speed = 60 km/hr
+Time = 2.5 hours
+
+Distance = Speed x Time
+= 60 km/hr x 2.5 hours
+= 150 km
+
+So, the train travels 150 kilometers in 2.5 hours."
+llama3.2:3b-instruct-q4_K_M,reasoning,22,Why is the sky blue? Explain step by step.,53.432,7.04,376,0.0,,2026-03-22T09:31:31.826502,"The sky appears blue because of a phenomenon called Rayleigh scattering, named after the British physicist Lord Rayleigh, who first described it in the late 19th century. Here's a step-by-step explanation:
+
+**Step 1: Sunlight and its components**
+
+When sunlight enters Earth's atmosphere, it consists of a spectrum of colors, including red, orange, yellow, green, blue, indigo, and violet. Each color has a different wavelength (distance between two consecutive peaks in the wave pattern).
+
+**Step 2:"
+llama3.2:3b-instruct-q4_K_M,reasoning,23,A farmer has 17 sheep. All but 9 die. How many are left? Explain.,9.604,5.73,55,0.0,,2026-03-22T09:31:41.430627,"This is a classic lateral thinking puzzle.
+
+The answer is not that all but 9 of the sheep died, leaving only 9 alive. Instead, it's asking how many sheep are left if ""all but 9"" die.
+
+In this case, ""all but 9"" means that 9 sheep did not die. So, the correct answer is 9."
+llama3.2:3b-instruct-q4_K_M,reasoning,24,"If you have a 3-litre jug and a 5-litre jug, how do you measure exactly 4 litres?",21.331,5.81,124,0.0,,2026-03-22T09:32:02.761543,"To measure exactly 4 liters using the two jugs, follow these steps:
+
+1. Fill the 5-liter jug completely with water.
+2. Pour water from the 5-liter jug into the 3-liter jug until the 3-liter jug is full, leaving 2 liters remaining in the 5-liter jug.
+3. Empty the 3-liter jug.
+4. Pour the remaining 2 liters from the 5-liter jug into the 3-liter jug.
+5. Fill the 5-liter jug completely with water again.
+6. Pour water from the 5-liter jug into the 3-liter jug until the 3-liter jug is full, which will"
+llama3.2:3b-instruct-q4_K_M,reasoning,25,"What comes next in this sequence: 2, 4, 8, 16, ___? Why?",8.936,5.48,49,0.0,,2026-03-22T09:32:11.697636,"The pattern of the sequence is obtained by multiplying the previous term by 2.
+
+So, to find the next term:
+
+2 × 2 = 4
+4 × 2 = 8
+8 × 2 = 16
+16 × 2 = 32
+
+Therefore, the next term in the sequence is: 32."
+llama3.2:3b-instruct-q4_K_M,reasoning,26,A store sells apples for $0.50 each. You buy 7. How much change from $5?,10.498,5.33,56,0.0,,2026-03-22T09:32:22.195525,"To find the total cost of the apples, multiply the price per apple by the number of apples:
+
+$0.50 x 7 = $3.50
+
+You paid with a $5 bill. To find the change, subtract the cost of the apples from the amount you paid:
+
+$5 - $3.50 = $1.50
+
+So, you will receive $1.50 in change."
+llama3.2:3b-instruct-q4_K_M,reasoning,27,"If all roses are flowers and some flowers fade quickly, can we conclude all roses fade quickly? Explain.",21.438,7.0,150,0.0,,2026-03-22T09:32:43.633493,"No, we cannot conclude that all roses fade quickly.
+
+The given statements are:
+
+1. All roses are flowers.
+2. Some flowers fade quickly.
+
+From these statements, we can infer that roses are a type of flower (since they are classified as ""flowers""), but we cannot make any conclusions about the behavior of roses specifically regarding fading.
+
+Just because some flowers (in general) fade quickly, it doesn't mean that all roses will do so. Roses may have different characteristics or behaviors compared"
+llama3.2:3b-instruct-q4_K_M,reasoning,28,A bat and ball cost $1.10 total. The bat costs $1 more than the ball. How much does the ball cost?,16.173,5.01,81,0.0,,2026-03-22T09:32:59.806988,"Let's call the cost of the ball ""x"".
+
+Since the bat costs $1 more than the ball, the cost of the bat is x + 1.
+
+The total cost of the bat and ball together is $1.10, so we can set up an equation:
+
+x + (x + 1) = 1.10
+
+Combine like terms:
+
+2x + 1 = 1.10
+
+Subtract 1 from both sides:
+
+2x = 0.10
+
+Divide by 2:
+
+x = 0.05
+
+So, the ball costs $0.05 (or 5 cents)."
+llama3.2:3b-instruct-q4_K_M,reasoning,29,Why do heavier objects and lighter objects fall at the same speed in a vacuum?,50.496,6.08,307,0.0,,2026-03-22T09:33:50.303197,"In a vacuum, both heavier and lighter objects fall at the same acceleration due to gravity, which is approximately 9.8 meters per second squared (m/s^2) on Earth's surface. This might seem counterintuitive, as we often expect that heavier objects would fall faster than lighter ones.
+
+However, there are several reasons why this isn't the case:
+
+1. **Gravity**: Gravity is a force that acts equally on all objects with mass, regardless of their size or weight. The strength of gravity depends only on"
+llama3.2:3b-instruct-q4_K_M,reasoning,30,"If today is Wednesday and a meeting is in 10 days, what day is the meeting?",8.667,4.38,38,0.0,,2026-03-22T09:33:58.970663,"To find out the day of the meeting, we need to count forward 10 days from Wednesday.
+
+Here's the calculation:
+
+Wednesday (today)
+Thursday
+Friday
+Saturday
+Sunday
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+
+The meeting will be on Saturday."
+llama3.2:3b-instruct-q4_K_M,reasoning,31,You flip a fair coin 3 times and get heads each time. What is the probability of heads on the 4th flip? Why?,26.001,5.58,145,0.0,,2026-03-22T09:34:24.973039,"The probability of getting heads on the 4th flip is still 0.5, or 50%.
+
+This might seem counterintuitive at first, but it's because the coin flips are independent events. Each time you flip a coin, the outcome is determined by chance and has no influence on the previous flips.
+
+In other words, the fact that you got heads three times in a row doesn't change the probability of getting heads or tails on the next flip. The coin still has an equal chance of landing on either side, regardless of what "
+llama3.2:3b-instruct-q4_K_M,reasoning,32,A snail climbs 3 metres up a wall each day but slides back 2 metres each night. How many days to climb 10 metres?,33.182,4.91,163,0.0,,2026-03-22T09:34:58.156856,"To solve this problem, we need to calculate the net distance covered by the snail each day.
+
+The snail climbs 3 meters up the wall during the day and slides back 2 meters at night, so the net distance covered is:
+
+Day 1: 3 - 2 = 1 meter
+Day 2: 3 + 1 (previous day's progress) - 2 = 2 meters
+Day 3: 3 + 2 (previous day's progress) - 2 = 3 meters
+
+Notice a pattern? The snail is effectively covering the distance it climbed during the previous day, plus an additional meter.
+
+Let's calculate the total "
+llama3.2:3b-instruct-q4_K_M,reasoning,33,Explain why -1 × -1 = 1 using a real-world analogy.,52.151,5.46,285,0.0,,2026-03-22T09:35:50.309381,"Imagine you're at a restaurant, and you order two identical pizzas that are both topped with the same ingredients (e.g., pepperoni, mushrooms, olives). When you pay for your pizzas, the total cost is $10.
+
+Now, let's say you want to return one of the pizzas because it's not to your liking. You can exchange it for a new pizza that's identical in terms of toppings and price. The restaurant will give you a refund of $5 (half of the original price).
+
+Here's where things get interesting: if you take "
+llama3.2:3b-instruct-q4_K_M,reasoning,34,"If a pizza is cut into 8 slices and you eat 3, what percentage remains?",14.656,4.09,60,0.0,,2026-03-22T09:36:04.966264,"To find the percentage of pizza that remains, first, calculate the number of slices remaining:
+
+8 (total slices) - 3 (slices eaten) = 5 slices remaining
+
+Then, divide the number of slices remaining by the total number of slices and multiply by 100 to get the percentage:
+
+(5 / 8) * 100 = 62.5%
+
+So, 62.5% of the pizza remains."
+llama3.2:3b-instruct-q4_K_M,reasoning,35,Two trains 200km apart travel toward each other at 80km/h and 70km/h. When do they meet?,23.121,5.06,117,0.0,,2026-03-22T09:36:28.088770,"To find when the two trains will meet, we need to calculate their combined speed and then determine how long it takes for them to cover the distance between them.
+
+Combined speed = Speed of train 1 + Speed of train 2
+= 80 km/h + 70 km/h
+= 150 km/h
+
+Now, let's convert the distance between the trains from kilometers to hours:
+
+Distance = Speed x Time
+Since they are traveling towards each other, we can use their combined speed as the relative speed.
+
+Time = Distance / Combined speed
+= 200 km / 150 "
+llama3.2:3b-instruct-q4_K_M,reasoning,36,Is it possible for a number to be both even and odd? Explain why or why not.,24.568,5.33,131,0.0,,2026-03-22T09:36:52.657782,"No, it is not possible for a number to be both even and odd.
+
+The definition of an even number is that it can be divided by 2 without leaving a remainder. In other words, if a number is even, it can be written in the form n = 2k, where k is an integer.
+
+On the other hand, the definition of an odd number is that it cannot be divided by 2 without leaving a remainder. In other words, if a number is odd, it can be written in the form n = 2k + 1, where k is an integer.
+
+Since these two definitions ar"
+llama3.2:3b-instruct-q4_K_M,reasoning,37,"If you put $1000 in a bank at 5% annual interest, how much will you have after 2 years?",25.713,4.55,117,0.0,,2026-03-22T09:37:18.371839,"To calculate the amount of money you'll have after 2 years, we need to calculate the interest for each year and add it to the principal.
+
+Year 1:
+Interest = Principal x Rate
+= $1000 x 5%
+= $1000 x 0.05
+= $50
+
+Total Amount after Year 1 = Principal + Interest
+= $1000 + $50
+= $1050
+
+Year 2:
+Interest = Total Amount after Year 1 x Rate
+= $1050 x 5%
+= $1050 x 0.05
+= $52.50
+
+Total Amount after Year 2 = Total Amount after Year 1 + Interest
+= $1050 + $52.50
+= $1102.50
+
+So, if you put $1000 in a bank at 5"
+llama3.2:3b-instruct-q4_K_M,reasoning,38,Why does ice float on water? What would happen to aquatic life if it didn't?,54.807,6.53,358,0.0,,2026-03-22T09:38:13.179538,"Ice floats on water due to its unique physical properties. Here's why:
+
+1. **Density**: Ice has a lower density than liquid water. This means that ice is less dense than the surrounding water, which allows it to float.
+2. **Crystal structure**: The crystal structure of ice is made up of hydrogen bonds between water molecules, which creates a lattice-like arrangement. This arrangement makes ice more open and less dense than liquid water.
+3. **Surface tension**: Ice has a lower surface tension tha"
+llama3.2:3b-instruct-q4_K_M,reasoning,39,A room has 4 corners. In each corner sits a cat. Each cat sees 3 other cats. How many cats are there?,79.496,4.21,335,0.0,,2026-03-22T09:39:32.675516,"Let's break this down step by step:
+
+1. Each corner has a cat, so we have at least 4 cats.
+2. Each cat sees 3 other cats, which means that for each cat, there are 3 other cats in the room.
+3. Since each cat is also sitting in one of the corners, and each corner has only one cat, it's not possible for a cat to see another cat in the same corner (since they're both in the same spot).
+4. This means that each cat must be seeing 2 other cats from different corners.
+5. Since there are 4 corners, and e"
+llama3.2:3b-instruct-q4_K_M,reasoning,40,Explain the trolley problem and what it reveals about moral reasoning.,104.337,4.26,444,0.0,,2026-03-22T09:41:17.012745,"The Trolley Problem is a classic thought experiment in ethics and moral philosophy that raises difficult questions about decision-making, morality, and human values. It was first introduced by philosopher Philippa Foot in 1967.
+
+Here's the scenario:
+
+Imagine you are standing near a railroad track, and you see a trolley (a kind of tram or streetcar) approaching. You notice that the trolley is headed towards a group of five people who are standing on the track, unaware of the danger. If the trolle"
+llama3.2:3b-instruct-q4_K_M,summarization,41,Summarize the concept of machine learning in 2 sentences.,8.334,7.2,60,0.0,,2026-03-22T09:41:25.347076,"Machine learning is a subset of artificial intelligence that enables computers to automatically improve their performance on a specific task without being explicitly programmed, by learning from data and experiences. Through this process, machines can identify patterns, make predictions, and take actions based on the data they've been trained on, allowing them to become increasingly accurate and efficient over time."
+llama3.2:3b-instruct-q4_K_M,summarization,42,Explain cloud computing to a 10-year-old.,52.895,5.01,265,0.0,,2026-03-22T09:42:18.242856,"Imagine you have a lot of toys, like Legos and dolls, that you want to store in your room. But, what if you didn't have enough space in your room for all those toys? You could either get rid of some of them or find a way to make more space.
+
+Cloud computing is kind of like that, but instead of toys, it's computers and information. Instead of storing everything on your own computer or device, you can store it in a big, magic place called ""the cloud"".
+
+The cloud is like a super-big, virtual room w"
+llama3.2:3b-instruct-q4_K_M,summarization,43,Summarize the theory of evolution in 3 sentences.,17.755,5.63,100,0.0,,2026-03-22T09:42:35.998343,"Here is a summary of the theory of evolution:
+
+The theory of evolution proposes that all living organisms have evolved over time through a process of variation, mutation, genetic drift, and natural selection. This means that species change and adapt to their environments in response to factors such as climate change, predation, and competition for resources, resulting in the creation of new species or the extinction of others. Through millions of years of gradual changes, life on Earth has becom"
+llama3.2:3b-instruct-q4_K_M,summarization,44,Explain what the internet is in simple terms.,40.332,5.18,209,0.0,,2026-03-22T09:43:16.330441,"The internet is a global network of interconnected computers and servers that communicate with each other using standardized protocols.
+
+Think of it like a huge library where information is stored on millions of computers all around the world. When you want to access information, such as a website or an email, your device (like a computer or phone) sends a request to one of these computers, called a server, which then sends back the information you requested.
+
+The internet allows people to share"
+llama3.2:3b-instruct-q4_K_M,summarization,45,Summarize the main causes of World War I in 2 sentences.,15.611,5.19,81,0.0,,2026-03-22T09:43:31.942328,"The main causes of World War I were a complex interplay of factors, including the rise of nationalism and imperialism, the complex system of alliances between European powers, and the assassination of Archduke Franz Ferdinand of Austria-Hungary by a Serbian nationalist, which triggered a chain reaction of diplomatic crises and military mobilizations. Additionally, the economic rivalries and tensions between major powers, such as Germany's rapid industrialization and Britain's desire to maintain "
+llama3.2:3b-instruct-q4_K_M,summarization,46,Explain blockchain technology to a non-technical person.,60.523,4.63,280,0.0,,2026-03-22T09:44:32.466236,"Imagine you have a notebook that multiple people share, and in this notebook, you write down every single transaction (like ""John gave 10 dollars to Jane"") as soon as it happens. This notebook is special because once something is written in it, it can't be erased or altered.
+
+Here's how it works:
+
+1. When someone wants to make a transaction (like sending money), they tell the whole group of people who have this shared notebook.
+2. The group verifies that the transaction is legitimate and makes s"
+llama3.2:3b-instruct-q4_K_M,summarization,47,Summarize what DNA is and why it matters in 2 sentences.,9.04,5.97,54,0.0,,2026-03-22T09:44:41.506401,"DNA (Deoxyribonucleic acid) is a molecule that contains the genetic instructions used in the development and function of all living organisms, serving as the blueprint for life. It matters because it determines an individual's unique characteristics, traits, and susceptibility to certain diseases, making it a crucial tool for understanding human health, genetics, and evolution."
+llama3.2:3b-instruct-q4_K_M,summarization,48,Explain the water cycle to a child.,54.99,4.76,262,0.0,,2026-03-22T09:45:36.497182,"Oh boy, are you ready for an adventure? Let's talk about the water cycle!
+
+Do you know what happens to the water when it rains outside? It doesn't just disappear! The water goes on a big journey called the water cycle.
+
+Here's how it works:
+
+1. **The Sun heats up the Earth**: When the sun shines, it makes the water in the oceans, lakes, and rivers get warm and turn into water vapor (like a special kind of gas).
+2. **Water vapor rises up**: The water vapor rises up into the air as clouds form.
+3."
+llama3.2:3b-instruct-q4_K_M,summarization,49,Summarize the concept of supply and demand in economics.,58.552,4.88,286,0.0,,2026-03-22T09:46:35.050063,"The concept of supply and demand is a fundamental principle in economics that determines the prices of goods and services in a market economy. It states that:
+
+**Supply**: The quantity of a good or service that producers are willing and able to produce at a given price level, usually measured by the quantity supplied.
+
+**Demand**: The quantity of a good or service that consumers are willing and able to buy at a given price level, usually measured by the quantity demanded.
+
+When the supply of a g"
+llama3.2:3b-instruct-q4_K_M,summarization,50,Explain what a black hole is in simple terms.,116.684,2.19,256,0.0,,2026-03-22T10:21:38.573294,"A black hole is a region in space where the gravitational pull is so strong that nothing, including light, can escape once it gets too close.
+
+Imagine you have a super-powerful vacuum cleaner that sucks up everything that gets too close to it, including air molecules and even tiny particles like dust and atoms. That's kind of what a black hole does, but instead of sucking up physical objects, it warps the fabric of space and time around it.
+
+Here's how it works:
+
+1. A massive star runs out of fu"
+llama3.2:3b-instruct-q4_K_M,summarization,51,Summarize the French Revolution in 3 sentences.,54.006,2.15,116,0.0,,2026-03-22T10:22:32.580748,"The French Revolution, which lasted from 1789 to 1799, was a complex and multifaceted event that began as a response to the financial crisis and social inequality faced by the French people under the absolute monarchy of King Louis XVI. The revolutionaries, fueled by Enlightenment ideas and the writings of thinkers such as Rousseau and Voltaire, eventually overthrew the monarchy and established the First French Republic, with Maximilien Robespierre's Committee of Public Safety playing a key role"
+llama3.2:3b-instruct-q4_K_M,summarization,52,Explain artificial intelligence to someone who has never heard of it.,133.357,2.51,335,0.0,,2026-03-22T10:24:45.939201,"I'd be happy to explain artificial intelligence (AI) in simple terms.
+
+Artificial intelligence is a way to create machines that can think and learn like humans do. Just like how you can teach yourself new things, like playing a game or solving a puzzle, AI systems can also learn from data and get better at doing tasks on their own.
+
+Imagine you have a robot that can play chess with you. At first, the robot might not be very good at it, but as you play against it, you can give it feedback and sug"
+llama3.2:3b-instruct-q4_K_M,summarization,53,Summarize how vaccines work in 2 sentences.,27.371,2.3,63,0.0,,2026-03-22T10:25:13.311696,"Vaccines work by introducing a small, harmless piece of a virus or bacteria (such as a protein or sugar) to the body, which triggers an immune response and allows the body to learn how to recognize and fight off future infections. This process stimulates the production of antibodies and immune cells that can recognize and attack specific pathogens, providing protection against future illnesses."
+llama3.2:3b-instruct-q4_K_M,summarization,54,Explain what inflation is using a simple everyday example.,47.444,2.15,102,0.0,,2026-03-22T10:26:00.757636,"Inflation is when the things we buy, like food and clothes, start to cost more money over time.
+
+Let's say you had $100 last year and could buy 10 pizzas with it. But this year, the price of pizzas went up by 20%. Now, your $100 can only buy 8 pizzas.
+
+That's inflation! The value of your money (the $100) hasn't changed, but the prices of things like pizzas have gone up. So, you need more money to buy the same number of pizzas as before.
+
+Inflation is like a slow-moving price hike that affects ma"
+llama3.2:3b-instruct-q4_K_M,summarization,55,Summarize the plot of Romeo and Juliet in 3 sentences.,41.531,2.14,89,0.0,,2026-03-22T10:26:42.289842,"In the tragic love story of Romeo and Juliet, two young lovers from feuding families in Verona fall deeply in love despite the animosity between their families. The star-crossed lovers get married in secret, but their happiness is short-lived as they face numerous obstacles, including a duel with Romeo's friend Mercutio and ultimately, their own impulsive decisions that lead to tragic consequences. In the end, the two lovers die in each other's arms, bringing peace between their families through"
+llama3.2:3b-instruct-q4_K_M,summarization,56,Explain what photosynthesis is to a 10-year-old.,77.948,1.99,155,0.0,,2026-03-22T10:28:00.239254,"So, you know how we need to eat food to have energy to play and do things? Well, plants are kind of like us, but instead of eating food, they make their own food! And they make it from sunlight!
+
+This magic process is called photosynthesis (say ""foh-toh-sin-thee-sis""). It's like a superpower that plants have. They use energy from the sun, water, and air to create a yummy, sweet drink called glucose (say ""gloo-kohs"").
+
+When plants make glucose, they also release oxygen into the air, which is real"
+llama3.2:3b-instruct-q4_K_M,summarization,57,Summarize the key ideas of democracy in 2 sentences.,30.664,2.25,69,0.0,,2026-03-22T10:28:30.904257,"Democracy is a system of government where power is held by the people, either directly or through elected representatives, and is characterized by the protection of individual rights and freedoms, as well as the promotion of accountability and transparency. At its core, democracy seeks to balance the interests of different groups and individuals, ensuring that all citizens have an equal voice in shaping their country's laws, policies, and institutions."
+llama3.2:3b-instruct-q4_K_M,summarization,58,Explain what a CPU does inside a computer in simple terms.,81.607,2.33,190,0.0,,2026-03-22T10:29:52.512787,"Imagine your brain is like a super powerful computer that can do lots of things at the same time. The ""brain"" part is called the Central Processing Unit, or CPU for short.
+
+The CPU's main job is to follow instructions and make decisions based on those instructions. It's like following a recipe to make a cake:
+
+1. You read the recipe (the instruction).
+2. You gather the ingredients (data) you need.
+3. You mix everything together (process the data).
+4. You bake the cake (execute the instruction).
+"
+llama3.2:3b-instruct-q4_K_M,summarization,59,Summarize the life cycle of a star in 3 sentences.,39.499,2.33,92,0.0,,2026-03-22T10:30:32.013554,"A star's life cycle begins with its formation from a giant molecular cloud, where it fuses hydrogen into helium in its core, releasing energy through nuclear reactions. As the star ages and runs out of hydrogen fuel, it expands to become a red giant, shedding its outer layers before shedding its remaining mass into space as a planetary nebula. The star's final stages involve the collapse of its core, leading to a supernova explosion or the formation of a white dwarf, neutron star, or black hole,"
+llama3.2:3b-instruct-q4_K_M,summarization,60,Explain the concept of gravity to a child.,101.232,2.43,246,0.0,,2026-03-22T10:32:13.247013,"Oh boy, are you ready for an adventure? Let's talk about gravity!
+
+So, you know how things fall down when you drop them? Like if you drop a ball or a toy, it falls to the ground? That's because of something called gravity.
+
+Gravity is like a magic string that pulls everything towards each other! It's what keeps us on the ground and what makes things fall. But it's not just us - everything in the world has gravity, even you!
+
+Imagine you have a big hug for your favorite toy or stuffed animal. You"
+llama3.2:3b-instruct-q4_K_M,code_generation,61,Write a Python function to reverse a string.,18.482,1.14,21,0.0,,2026-03-22T10:32:31.730961,"def reverse_string(s):
+    """"""
+    Reverses the input string.
+
+    Args:
+        s (str): The input string.
+
+    Returns:
+        str: The reversed string.
+    """"""
+    return s[::-1]"
+llama3.2:3b-instruct-q4_K_M,code_generation,62,Write a Python function to check if a number is prime.,33.325,1.56,52,0.0,,2026-03-22T10:33:05.057112,"def is_prime(n):
+    """"""
+    Checks if a number is prime.
+
+    Args:
+        n (int): The number to check.
+
+    Returns:
+        bool: True if the number is prime, False otherwise.
+    """"""
+    if n <= 1:
+        return False
+    for i in range(2, int(n ** 0.5) + 1):
+        if n % i == 0:
+            return False
+    return True"
+llama3.2:3b-instruct-q4_K_M,code_generation,63,Write a Python function to calculate the factorial of a number.,43.549,1.65,72,0.0,,2026-03-22T10:33:48.607710,"def factorial(n):
+    """"""
+    Calculate the factorial of a given number.
+
+    Args:
+        n (int): The input number.
+
+    Returns:
+        int: The factorial of the input number.
+    """"""
+    if not isinstance(n, int):
+        raise TypeError(""Input must be an integer."")
+    if n < 0:
+        raise ValueError(""Input must be a non-negative integer."")
+    elif n == 0 or n == 1:
+        return 1
+    else:
+        result = 1
+        for i in range(2, n + 1):
+            result *= i
+        return r"
+llama3.2:3b-instruct-q4_K_M,code_generation,64,Write a Python function to find the largest number in a list.,51.503,1.9,98,0.0,,2026-03-22T10:34:40.112201,"def find_largest_number(lst):
+    """"""
+    This function finds the largest number in a given list.
+
+    Args:
+        lst (list): A list of numbers.
+
+    Returns:
+        The largest number in the list.
+    """"""
+    if not lst:  # Check if the list is empty
+        return None
+
+    largest_num = lst[0]  # Initialize the largest number as the first element in the list
+
+    for num in lst[1:]:  # Iterate over the rest of the elements in the list
+        if num > largest_num:  # If the current number"
+llama3.2:3b-instruct-q4_K_M,code_generation,65,Write a Python function that returns the Fibonacci sequence up to n terms.,66.223,1.71,113,0.0,,2026-03-22T10:35:46.336314,"def fibonacci(n):
+    """"""
+    Returns the Fibonacci sequence up to n terms.
+
+    Args:
+        n (int): The number of terms in the Fibonacci sequence.
+
+    Returns:
+        list: A list of integers representing the Fibonacci sequence.
+    """"""
+
+    # Check if n is a non-negative integer
+    if not isinstance(n, int) or n < 0:
+        raise ValueError(""n must be a non-negative integer"")
+
+    # Handle edge cases where n is 0 or 1
+    if n == 0:
+        return []
+    elif n == 1:
+        return [0]
+"
+llama3.2:3b-instruct-q4_K_M,code_generation,66,Write a Python function to count the vowels in a string.,49.233,1.87,92,0.0,,2026-03-22T10:36:35.571454,"def count_vowels(s):
+    """"""
+    This function counts the number of vowels in a given string.
+
+    Parameters:
+    s (str): The input string.
+
+    Returns:
+    int: The number of vowels in the string.
+    """"""
+    # Convert the string to lowercase
+    s = s.lower()
+    
+    # Initialize a counter for vowels
+    count = 0
+    
+    # Iterate over each character in the string
+    for char in s:
+        # Check if the character is a vowel
+        if char in 'aeiou':
+            # If it's a vowel, inc"
+llama3.2:3b-instruct-q4_K_M,code_generation,67,Write a Python function to check if a string is a palindrome.,35.674,1.65,59,0.0,,2026-03-22T10:37:12.054489,"def is_palindrome(s):
+    """"""
+    Checks if a given string is a palindrome.
+
+    Args:
+        s (str): The input string.
+
+    Returns:
+        bool: True if the string is a palindrome, False otherwise.
+    """"""
+
+    # Remove any non-alphanumeric characters and convert to lowercase
+    cleaned_s = ''.join(c for c in s if c.isalnum()).lower()
+
+    # Compare the cleaned string with its reverse
+    return cleaned_s == cleaned_s[::-1]"
+llama3.2:3b-instruct-q4_K_M,code_generation,68,Write a Python function to flatten a nested list.,59.315,1.38,82,0.0,,2026-03-22T10:38:11.371571,"def flatten(nested_list):
+    """"""
+    This function takes a nested list as input and returns a flattened list.
+    
+    Args:
+        nested_list (list): A list that can contain other lists as elements.
+    
+    Returns:
+        list: A flat list containing all elements from the nested list.
+    """"""
+    flat_list = []
+    for element in nested_list:
+        if isinstance(element, list):
+            flat_list.extend(flatten(element))
+        else:
+            flat_list.append(element)
+    return "
+llama3.2:3b-instruct-q4_K_M,code_generation,69,Write a Python function to remove duplicates from a list while preserving order.,28.927,1.76,51,0.0,,2026-03-22T10:38:40.299346,"def remove_duplicates(input_list):
+    """"""
+    Removes duplicates from a list while preserving the original order.
+
+    Args:
+        input_list (list): The list from which to remove duplicates.
+
+    Returns:
+        list: A new list with duplicates removed.
+    """"""
+    seen = set()
+    output_list = []
+
+    for element in input_list:
+        if element not in seen:
+            seen.add(element)
+            output_list.append(element)
+
+    return output_list"
+llama3.2:3b-instruct-q4_K_M,code_generation,70,Write a Python function to merge two sorted lists into one sorted list.,24.863,4.42,110,0.0,,2026-03-22T10:39:05.162763,"def merge_sorted_lists(list1, list2):
+    """"""
+    Merge two sorted lists into one sorted list.
+
+    Args:
+        list1 (list): The first sorted list.
+        list2 (list): The second sorted list.
+
+    Returns:
+        list: A new sorted list containing all elements from both input lists.
+    """"""
+    # Initialize the result list
+    merged_list = []
+
+    # Initialize indices for both lists
+    i, j = 0, 0
+
+    # Merge smaller elements first
+    while i < len(list1) and j < len(list2):
+        if"
+llama3.2:3b-instruct-q4_K_M,code_generation,71,"Write a Python class for a simple stack with push, pop, and peek methods.",45.198,4.73,214,0.0,,2026-03-22T10:39:50.360778,"class Stack:
+    """"""
+    A simple implementation of a stack data structure in Python.
+
+    Attributes:
+        elements (list): The list of elements stored in the stack.
+    """"""
+
+    def __init__(self):
+        """"""
+        Initializes an empty stack.
+        """"""
+        self.elements = []
+
+    def push(self, element):
+        """"""
+        Adds an element to the top of the stack.
+
+        Args:
+            element: The element to be added to the stack.
+        """"""
+        self.elements.append(elem"
+llama3.2:3b-instruct-q4_K_M,code_generation,72,Write a Python function to perform binary search on a sorted list.,29.747,5.88,175,0.0,,2026-03-22T10:40:20.107665,"def binary_search(sorted_list, target):
+    """"""
+    Performs a binary search on a sorted list.
+
+    Args:
+        sorted_list (list): A sorted list of elements.
+        target: The element to be searched in the list.
+
+    Returns:
+        int: The index of the target element if found, -1 otherwise.
+    """"""
+
+    # Initialize two pointers, one at the start and one at the end of the list
+    left = 0
+    right = len(sorted_list) - 1
+
+    # Continue searching while the two pointers haven't crossed e"
+llama3.2:3b-instruct-q4_K_M,code_generation,73,Write a Python function to convert Celsius to Fahrenheit.,12.534,4.23,53,0.0,,2026-03-22T10:40:32.641933,"def celsius_to_fahrenheit(celsius):
+    """"""
+    Converts temperature from Celsius to Fahrenheit.
+
+    Args:
+        celsius (float): Temperature in Celsius.
+
+    Returns:
+        float: Temperature in Fahrenheit.
+    """"""
+    if not isinstance(celsius, (int, float)):
+        raise TypeError(""Input must be a number."")
+    if celsius < -273.15:
+        raise ValueError(""Temperature cannot be lower than absolute zero."")
+
+    fahrenheit = (celsius * 9/5) + 32
+    return fahrenheit"
+llama3.2:3b-instruct-q4_K_M,code_generation,74,Write a Python decorator that measures the execution time of a function.,16.149,3.53,57,0.0,,2026-03-22T10:40:48.791076,"import time
+from functools import wraps
+
+def measure_execution_time(func):
+    @wraps(func)
+    def wrapper(*args, **kwargs):
+        start_time = time.time()
+        result = func(*args, **kwargs)
+        end_time = time.time()
+        execution_time = (end_time - start_time) * 1000
+        print(f""Function {func.__name__} executed in {execution_time:.2f} ms"")
+        return result
+    return wrapper
+
+# Example usage:
+@measure_execution_time
+def example_function():
+    # Simulate some work
+    "
+llama3.2:3b-instruct-q4_K_M,code_generation,75,Write a Python function to count word frequency in a sentence.,17.03,5.58,95,0.0,,2026-03-22T10:41:05.821491,"def count_word_frequency(sentence):
+    # Convert the sentence to lowercase and split it into words
+    words = sentence.lower().split()
+
+    # Create a dictionary to store the word frequencies
+    frequency_dict = {}
+
+    # Iterate over each word in the list of words
+    for word in words:
+        # Remove any punctuation from the word
+        word = ''.join(e for e in word if e.isalnum())
+
+        # If the word is already in the dictionary, increment its count
+        if word in frequency_dict"
+llama3.2:3b-instruct-q4_K_M,code_generation,76,Write a Python function that rotates a list by k positions.,11.121,5.22,58,0.0,,2026-03-22T10:41:16.942478,"def rotate_list(lst, k):
+    """"""
+    Rotate a list by k positions.
+
+    Args:
+        lst (list): The input list.
+        k (int): The number of positions to rotate the list.
+
+    Returns:
+        list: The rotated list.
+    """"""
+    # Calculate the effective rotation positions
+    k = k % len(lst)
+    
+    # Split the list into two parts at the rotation position
+    return lst[k:] + lst[:k]"
+llama3.2:3b-instruct-q4_K_M,code_generation,77,Write a Python context manager that logs when a block of code starts and ends.,24.608,4.51,111,0.0,,2026-03-22T10:41:41.551024,"import logging
+from contextlib import contextmanager
+
+# Set up the logger
+logging.basicConfig(level=logging.INFO)
+logger = logging.getLogger(__name__)
+
+@contextmanager
+def log_block(name):
+    """"""
+    A context manager that logs when a block of code starts and ends.
+
+    Args:
+        name (str): The name of the block to be logged.
+    """"""
+    # Log the start of the block
+    logger.info(f""Starting {name}"")
+    
+    try:
+        # Yield control to the block of code
+        yield
+        
+    fin"
+llama3.2:3b-instruct-q4_K_M,code_generation,78,Write a Python generator that yields prime numbers indefinitely.,29.306,3.99,117,0.0,,2026-03-22T10:42:10.857696,"import random
+
+def is_prime(num):
+    """"""Check if a number is prime.""""""
+    if num < 2:
+        return False
+    for i in range(2, int(num**0.5) + 1):
+        if num % i == 0:
+            return False
+    return True
+
+def sieve_of_eratosthenes(limit):
+    """"""Generate all primes up to a given limit using the Sieve of Eratosthenes algorithm.""""""
+    sieve = [True] * (limit + 1)
+    sieve[0:2] = [False, False]
+    for current_prime in range(2, int(limit**0.5) + 1):
+        if sieve[current_prime]:
+ "
+llama3.2:3b-instruct-q4_K_M,code_generation,79,Write a Python function using recursion to solve the Tower of Hanoi problem.,31.154,4.94,154,0.0,,2026-03-22T10:42:42.013170,"def tower_of_hanoi(n, source, target, auxiliary):
+    """"""
+    Solves the Tower of Hanoi problem recursively.
+
+    Args:
+        n (int): The number of disks.
+        source (str): The name of the source peg.
+        target (str): The name of the target peg.
+        auxiliary (str): The name of the auxiliary peg.
+
+    Returns:
+        None
+    """"""
+    # Base case: If there is only one disk, move it directly from the source to the target.
+    if n == 1:
+        print(f""Move disk 1 from {source} to"
+llama3.2:3b-instruct-q4_K_M,code_generation,80,Write a Python function to validate an email address using regex.,22.643,3.53,80,0.0,,2026-03-22T10:43:04.657304,"import re
+
+def validate_email(email):
+    """"""
+    Validate an email address using regex.
+
+    Args:
+        email (str): The email address to be validated.
+
+    Returns:
+        bool: True if the email is valid, False otherwise.
+    """"""
+
+    # Regular expression pattern for validating email addresses
+    pattern = r""^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$""
+
+    # Check if the email matches the pattern
+    if re.match(pattern, email):
+        return True
+    else:
+        return False
+
+#"
+llama3.2:3b-instruct-q4_K_M,creative,81,Write a 3-sentence story about a robot learning to cook.,18.814,5.21,98,0.0,,2026-03-22T10:43:23.471685,"As the kitchen lights flickered on, Zeta, the latest model of culinary bot, stood nervously beside its creator, Dr. Patel, who handed it a worn recipe book and whispered ""start with something simple."" With whirring servos and beeping sensors, Zeta carefully measured out ingredients and began to chop, sauté, and season its way through a humble chicken stir-fry, the aromas wafting from the pan a testament to its nascent culinary prowess. As the dish emerged perfectly cooked and fragrant, Dr. Patel"
+llama3.2:3b-instruct-q4_K_M,creative,82,List 5 creative uses for an empty cardboard box.,45.808,5.79,265,0.0,,2026-03-22T10:44:09.280093,"Here are 5 creative uses for an empty cardboard box:
+
+1. **DIY Puppet Theater**: Cut out holes on either side of the box to create a stage, and decorate it with markers, paint, or stickers. Add some felt or construction paper cutouts for characters, and you've got a fun puppet theater for kids (or adults!) to enjoy.
+
+2. **Indoor Planters**: Clean and cut out the top flaps of the box to create mini planters. Fill them with potting soil and your favorite plants, and place them on a shelf or window"
+llama3.2:3b-instruct-q4_K_M,creative,83,Write a short poem about the ocean at night.,11.327,6.27,71,0.0,,2026-03-22T10:44:20.607422,"The moon's soft glow upon the sea,
+A midnight canvas, dark and free.
+The waves caress the sandy shore,
+As stars above whisper secrets more.
+
+The tide rises, falls with ease,
+A soothing melody to please.
+The ocean's heartbeat, strong and slow,
+Echoes through the darkness below.
+
+In this nocturnal world of blue,
+I find my peace, my heart anew.
+The ocean's mystery, I adore,
+Under the night sky, forever more."
+llama3.2:3b-instruct-q4_K_M,creative,84,Describe an alien civilisation that communicates through colour.,105.012,4.69,493,0.02,,2026-03-22T10:46:05.620162,"The Xylonia are a highly advanced, enigmatic alien civilization that have developed a unique method of communication based on the manipulation and interpretation of color. Their language, known as Chroma, is an intricate system of light and hue that allows them to convey complex ideas, emotions, and even abstract concepts.
+
+Physical Appearance:
+Xyloxians appear as gelatinous, iridescent beings with bodies composed of shimmering, crystalline structures that reflect and refract light. Their skin c"
+llama3.2:3b-instruct-q4_K_M,creative,85,Write a motivational speech for someone starting their first job.,87.794,5.11,449,0.0,,2026-03-22T10:47:33.414807,"Here's a motivational speech for someone starting their first job:
+
+""Congratulations on taking this huge step towards your career! Starting your first job is an exciting and intimidating experience all at once. You're about to embark on a journey that will challenge you, teach you, and shape you into the person you want to be.
+
+As you begin this new chapter, I want you to remember one thing: it's okay to not have all the answers. It's okay to make mistakes. In fact, making mistakes is an essenti"
+llama3.2:3b-instruct-q4_K_M,creative,86,Invent a new sport that can be played indoors by two people. Describe the rules.,105.57,4.82,509,0.01,,2026-03-22T10:49:18.985434,"Introducing ""Aerius"" - a fast-paced, indoor sport for two players that combines elements of volleyball, trampolining, and strategy.
+
+**Objective:**
+The objective of Aerius is to hit the ball over the net and score points by landing it in the opponent's goal zone. The team with the most points at the end of the game wins.
+
+**Equipment:**
+
+* A rectangular court with a trampoline in the center (approximately 12 feet x 24 feet)
+* Two goals, one at each end of the court (each goal is 3 feet wide and "
+llama3.2:3b-instruct-q4_K_M,creative,87,Write a letter from the perspective of the last tree in a forest.,85.524,4.5,385,0.0,,2026-03-22T10:50:44.510789,"Dear Friend,
+
+I stand alone now, the last sentinel of a once-thriving forest. The wind whispers secrets through my branches, and I am left to ponder the memories of what was.
+
+I remember when this land was alive with the songs of birds, the rustle of leaves, and the gentle touch of sunlight filtering through the canopy above. The forest was a tapestry woven from threads of green, each one unique yet intertwined with its neighbors. We stood together, a community of giants, our roots entwined in a"
+llama3.2:3b-instruct-q4_K_M,creative,88,Describe a city in the year 2200 in 4 sentences.,25.275,4.83,122,0.0,,2026-03-22T10:51:09.786717,"In the year 2200, the city of New Eden sprawls across a vast network of interconnected islands and elevated walkways, its towering skyscrapers and neon-lit streets pulsing with energy. The once-blue skies are now a permanent haze of pollution, but the city's advanced atmospheric processors have scrubbed away most of the toxic gases, creating a breathable air that allows humans to thrive. Virtual reality has become indistinguishable from reality itself, as people spend their days immersed in fant"
+llama3.2:3b-instruct-q4_K_M,creative,89,Write a dialogue between the Sun and the Moon meeting for the first time.,83.809,5.83,489,0.0,,2026-03-22T10:52:33.597100,"[The scene is set in a celestial realm, where the Sun and the Moon meet for the first time. The Sun, radiant with warmth and light, shines brightly as it approaches the Moon, who glows softly with a gentle luminescence.]
+
+Sun: Greetings, Moon. I've heard so much about you.
+
+Moon: Ah, Sun, it's an honor to finally meet you. Your radiance is breathtaking.
+
+Sun: Thank you, kind words indeed. I must say, your soft glow is quite captivating. It's a welcome respite from my own intense light.
+
+Moon: In"
+llama3.2:3b-instruct-q4_K_M,creative,90,List 5 unusual but practical inventions the world needs.,68.289,3.49,238,0.0,,2026-03-22T10:53:41.886321,"Here are five unusual but practical inventions that the world could benefit from:
+
+1. **Atmospheric Water Harvester**: This invention would harness water vapor from the air, even in arid regions, and condense it into clean drinking water. It could be a game-changer for communities struggling with access to clean water.
+
+2. **Smart Contact Lenses**: These contact lenses would have built-in microchips that can monitor glucose levels, provide virtual displays, or even offer augmented reality experi"
+llama3.2:3b-instruct-q4_K_M,creative,91,Write a short mystery story that ends with an unexpected twist in 5 sentences.,26.732,4.45,119,0.0,,2026-03-22T10:54:08.618942,"Detective Jameson sat at his desk, staring at the cold cup of coffee in front of him as he pondered the case of the missing heirloom. The wealthy businessman, Richard Langley, had reported that his priceless family diamond was stolen from his mansion during a charity gala. As Jameson reviewed the security footage, he noticed a suspicious figure lurking around the display case just before the theft occurred. But it wasn't until he received a call from an anonymous source claiming to be the thief "
+llama3.2:3b-instruct-q4_K_M,creative,92,Describe what music would look like if it were visible.,111.692,4.25,475,0.0,,2026-03-22T10:56:00.310955,"If music were visible, it would be a mesmerizing and dynamic visual representation of sound waves, emotions, and experiences. Here's a possible interpretation:
+
+**Sound Waves as Vibrations**
+
+Music would manifest as undulating patterns of light and color that evoke the vibrations of sound waves. Each note would produce a unique waveform, with frequencies ranging from gentle ripples to intense, swirling vortexes. The amplitude and pitch of these waves would influence their brightness, texture, an"
+llama3.2:3b-instruct-q4_K_M,creative,93,Write a bedtime story for a child who is afraid of the dark.,84.413,5.27,445,0.01,,2026-03-22T10:57:24.723894,"Once upon a time, in a land far, far away, there was a magical kingdom hidden behind a veil of sparkling stars. In this kingdom, there lived a little rabbit named Fluffy. Fluffy loved to play outside during the day, chasing butterflies and sniffing wildflowers.
+
+But when the sun began to set, Fluffy would start to feel a little scared. The shadows would grow long and dark, and she would wonder if it was safe to go back inside her cozy burrow.
+
+One evening, as Fluffy was getting ready for bed, sh"
+llama3.2:3b-instruct-q4_K_M,creative,94,Invent a new holiday and describe how people would celebrate it.,70.673,5.8,410,0.0,,2026-03-22T10:58:35.397642,"I'd like to introduce ""Luminaria"" - a joyous holiday that celebrates the magic of light, connection, and community.
+
+**Date:** Luminaria is celebrated on the spring equinox, March 20th/21st, marking the moment when day and night are equal in length. This date symbolizes balance, harmony, and the renewal of life.
+
+**Traditions:**
+
+1. **The Lighting of the Lanterns**: As the sun sets on Luminaria eve, people gather in their neighborhoods or communities to light lanterns made from natural materials"
+llama3.2:3b-instruct-q4_K_M,creative,95,Write a product review for a time machine.,125.326,4.09,513,0.01,,2026-03-22T11:00:40.725122,"**Time Machine Review: A Game-Changer or a Recipe for Disaster?**
+
+I must preface this review by stating that I'm still trying to wrap my head around the fact that I've actually used a functioning time machine. The device in question, which we'll call the ""Chrono-Traveler 5000,"" has been a wild ride, and I'm excited to share my thoughts on its performance.
+
+**Design and Build Quality: 4/5**
+
+The Chrono-Traveler 5000 is a sleek, futuristic-looking machine that's sure to turn heads. The stainless "
+llama3.2:3b-instruct-q4_K_M,creative,96,Describe what it would feel like to live on Mars in 4 sentences.,25.103,4.62,116,0.0,,2026-03-22T11:01:05.829191,"Living on Mars would be a surreal experience, with the rust-red landscape stretching out as far as the eye can see and the sky a deep crimson hue due to the planet's thin atmosphere. The air would be thin and cold, making every movement feel labored and requiring constant adjustments to maintain body temperature. Despite the harsh environment, the stark beauty of Mars' barren terrain and the sense of being part of a pioneering effort would evoke a profound sense of wonder and awe. As you settled"
+llama3.2:3b-instruct-q4_K_M,creative,97,Write a conversation between a smartphone and a typewriter.,100.056,3.72,372,0.01,,2026-03-22T11:02:45.885518,"Smartphone: *sitting on a desk, screen glowing* Hey there, Typewriter. It's been a while since we last spoke.
+
+Typewriter: *clacking away at a piece of paper* Ah, Smartphone. Always so full of yourself with your fancy apps and social media. What brings you here today?
+
+Smartphone: *laughs* Well, I was just thinking about how much things have changed since you were first invented. You're still using that old-fashioned method of typing out words one by one.
+
+Typewriter: *smirks* Ah, but that's the"
+llama3.2:3b-instruct-q4_K_M,creative,98,List 5 things that would be different if humans had no sense of smell.,68.843,4.69,323,0.0,,2026-03-22T11:03:54.728871,"Here are five things that would likely be different if humans had no sense of smell:
+
+1. **Food preferences and culinary culture**: The ability to detect subtle flavors, aromas, and textures through our sense of smell plays a significant role in food preferences and enjoyment. Without this sense, people might rely more heavily on taste and texture when evaluating food quality, leading to different culinary traditions and preferences.
+
+2. **Perfume and fragrance industry**: The perfume and fragra"
+llama3.2:3b-instruct-q4_K_M,creative,99,Write a news headline from 100 years in the future.,13.039,3.91,51,0.0,,2026-03-22T11:04:07.769059,"Here's a possible news headline from 2124:
+
+**""MARS COLONY REACHES SELF-SUSTAINING STATUS AS HUMANITY'S NEW HOME, MARKING END OF GLOBAL GOVERNANCE""**
+
+This headline reflects a potential future where humanity has established a thriving colony on Mars, leading to a shift away from global governance and towards a more decentralized, Martian-centric society."
+llama3.2:3b-instruct-q4_K_M,creative,100,Describe the most interesting job that doesn't exist yet.,95.688,4.82,461,0.0,,2026-03-22T11:05:43.458071,"Let me introduce you to a fascinating profession that doesn't exist yet, but could potentially become a reality in the future:
+
+**Job Title:** ""Digital Legacy Curator""
+
+**Job Description:**
+
+As a Digital Legacy Curator, your primary responsibility would be to manage and preserve the digital footprint of individuals who have passed away. This role would involve curating and maintaining online archives of an individual's digital life, including their social media profiles, emails, documents, photo"
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,1,What is the capital of France?,21.034,2.61,55,-0.69,,2026-03-22T11:06:04.492271,"The capital of France is Paris. It's not only the largest city in the country but also a major European cultural, financial and commercial center known for its history, architecture (including landmarks like the Eiffel Tower), cuisine, fashion, and art museums such as the Louvre which houses thousands of works from all over the world."
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,2,What is 15 multiplied by 13?,12.389,2.18,27,0.0,,2026-03-22T11:06:16.881660,"To find the product of 15 and 13, you simply multiply the two numbers together:
+
+15 × 13 = 195
+
+So, 15 multiplied by 13 equals 195."
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,3,Name 3 planets in the solar system.,28.633,3.14,90,0.0,,2026-03-22T11:06:45.515529,"1. Earth - Our home planet, known for its diverse ecosystems and ability to support life.
+2. Jupiter - The largest planet in our Solar System; it's a gas giant with prominent bands of clouds swirling around an atmosphere dominated by hydrogen and helium. 
+3. Mars - Known as the Red Planet due to its reddish appearance, caused by iron oxide (rust) on its surface. It has been explored extensively for signs of past or present life and is a target destination in human spaceflight ambitions like NASA"
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,4,What is the chemical symbol for gold?,21.815,2.93,64,0.0,,2026-03-22T11:07:07.331341,"The chemical symbol for gold is Au, derived from the Latin word ""aurum."" Gold has an atomic number of 79 on the periodic table. It's a highly sought-after precious metal known for its lustrous yellow color and malleability among other properties that have made it valuable throughout history in various applications including jewelry, currency, electronics, and as investment assets like gold bars or coins."
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,5,How many continents are there on Earth?,15.811,2.78,44,0.0,,2026-03-22T11:07:23.143070,"There are seven continents on Earth. These include Asia, Africa, North America, South America, Antarctica, Europe, and Australia (or Oceania when including the numerous islands in the Pacific Ocean). Each continent has its own unique geography, cultures, ecosystems, and countries or territories within them."
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,6,What is the speed of light in km/s?,18.849,2.71,51,0.0,,2026-03-22T11:07:41.993079,"The speed of light in a vacuum is approximately 299,792 kilometers per second (km/s). This value is often rounded to 300,000 km/s for ease of use and communication. The exact figure can be used when precision is required, especially in scientific calculations or contexts where the slight difference may have implications."
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,7,Who wrote Romeo and Juliet?,19.858,2.97,59,0.0,,2026-03-22T11:08:01.851997,"William Shakespeare is the author of ""Romeo and Juliet."" It's a tragic play that was written around 1597, during what we consider to be his late career. The story revolves around two young star-crossed lovers whose deaths ultimately reconcile their feuding families. Shakespeare is widely regarded as one of the greatest writers in the English language and literature worldwide."
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,8,What year did World War II end?,22.885,2.71,62,0.0,,2026-03-22T11:08:24.737123,"World War II ended in the year 1945. The war concluded with several significant events: Germany surrendered on May 7, and Japan formally capitulated on September 2 after the atomic bombings of Hiroshima and Nagasaki by the United States. These surrenders marked the end of hostilities between the Allies and Axis powers in Europe (V-E Day) and Asia/Pacific regions (V-J Day), respectively."
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,9,What is the largest ocean on Earth?,26.762,3.21,86,0.0,,2026-03-22T11:08:51.499218,"The Pacific Ocean is the largest ocean on Earth. It covers more than 63 million square miles (165 million square kilometers) and extends from the Arctic in the north to the Southern Antarctic Circle in the south, covering approximately one-third of the planet's surface area. The vast expanse includes a wide range of ecosystems such as coral reefs, deep sea trenches like the Mariana Trench (the deepest part on Earth), and numerous islands including Hawaii, Japan, Australia, New Zealand, and many "
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,10,How many sides does a hexagon have?,22.064,3.35,74,0.0,,2026-03-22T11:09:13.563266,"A hexagon has six sides. By definition, any polygon with exactly six straight sides and angles is called a hexagon. The term ""hex-"" comes from the Greek word 'hex,' meaning six; thus it directly refers to its number of edges or sides. In geometry, regular hexagons have all their interior angles equal (120 degrees each), but even in irregular forms, there are always exactly six straight lines that define a polygon as a hexagon."
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,11,What is the boiling point of water in Celsius?,27.222,2.5,68,0.0,,2026-03-22T11:09:40.786415,"The boiling point of pure water at sea level, which corresponds to a standard atmospheric pressure of 1 atmosphere (atm), or 101.325 kilopascals (kPa), is exactly 100 degrees Celsius (°C). However, it's important to note that the boiling point can vary with changes in altitude and atmospheric pressure; for instance, at higher elevations where air pressure is lower, water will boil at a temperature less than 100 °C."
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,12,Who painted the Mona Lisa?,28.509,3.09,88,0.0,,2026-03-22T11:10:09.296028,"The Mona Lisa was painted by Leonardo da Vinci. It is one of his most famous works and a world-renowned masterpiece housed in the Louvre Museum in Paris, France. The painting's creation spanned from approximately 1503 to 1506, although some art historians believe that work continued on it as late as 1517. Leonardo da Vinci was an Italian polymath of the Renaissance period who is widely considered one of the greatest painters in history and also made significant contributions to science, engineer"
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,13,What is the square root of 144?,30.23,2.41,73,0.0,,2026-03-22T11:10:39.527166,"The square root of 144 is a number that, when multiplied by itself, gives the product 144. The positive square root of 144 is 12 because 12 x 12 equals 144 (12^2 = 144). There's also a negative solution since squaring either -12 or +12 results in 144, but typically when asked for ""the square root,"" the positive value is implied. Therefore, we consider only the principal (positive) square root:
+
+√144 = 12"
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,14,What is the capital of Japan?,17.489,3.43,60,0.0,,2026-03-22T11:10:57.019476,"The capital of Japan is Tokyo. It's not only a political center but also one of the largest metropolitan areas in the world, known for its blend of traditional culture and cutting-edge technology. The city has many historical sites such as Senso-ji Temple which dates back to ancient times, alongside modern landmarks like the iconic Tokyo Tower and Shibuya Crossing."
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,15,How many bones are in the adult human body?,18.26,3.07,56,0.0,,2026-03-22T11:11:15.280268,"An adult human body typically has 206 bones. These bones provide structure, protect organs, and allow us to move by working with our muscles. The number of bones can vary slightly from person to person due to variations like extra ribs or additional small bones called sesamoid bones that may be present in some individuals' feet."
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,16,What gas do plants absorb during photosynthesis?,24.748,2.59,64,0.0,,2026-03-22T11:11:40.028915,"Plants primarily absorb carbon dioxide (CO2) from the atmosphere during photosynthesis. This process involves using sunlight to convert CO2 and water into glucose, a sugar that serves as an energy source for plant growth. Oxygen is released as a byproduct of this reaction. The overall chemical equation representing photosynthesis can be summarized as:
+
+6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ (glucose) + 6O₂"
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,17,What is the currency of the United Kingdom?,31.113,3.15,98,0.0,,2026-03-22T11:12:11.143070,"The official currency of the United Kingdom (UK) is the Pound Sterling, often simply referred to as ""Pounds."" The symbol for the pound sterling in financial transactions and banking within the UK is £. It's important to note that while historically there were different forms such as pounds, shillings, and pence used (£1 = 20 shillings; each shilling was worth 12 pence), modern British currency operates on a decimal system where one Pound Sterling is equivalent to 100 units called ""Pence."" The Ba"
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,18,Name the four blood types in the ABO system.,43.63,3.0,131,0.0,,2026-03-22T11:12:54.773504,"The four main blood types in the ABO blood group system are:
+1. Type A - which has antigens (A) on red cells and anti-B antibodies in plasma,
+2. Type B - with antigens (B) present on red cells and anti-A antibodies found in plasma, 
+3. Type AB - characterized by the presence of both A and B antigens but no anti-A or anti-B antibodies, making it a universal recipient for transfusions within this system,
+4. Type O - which has neither A nor B antigens on red cells with both anti-A and anti-B antibo"
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,19,What planet is known as the Red Planet?,15.914,3.2,51,0.0,,2026-03-22T11:13:10.688288,"The planet commonly referred to as the ""Red Planet"" is Mars. This nickname comes from its reddish appearance, which is visible even with amateur telescopes and in images taken by spacecraft orbiting or landing on it. The red coloration of Mars results primarily from iron oxide (rust) present on its surface."
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,20,How many zeros are in one million?,14.89,2.22,33,0.0,,2026-03-22T11:13:25.578390,"There are six zeros in one million (1,000,000). The number is composed of seven digits with the first digit being '1' and five subsequent zeroes. In numerical form: 1,000,000 = 1 × 10^6."
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,21,"If a train travels 60km/hr for 2.5 hours, how far does it travel? Show steps.",47.885,2.61,125,0.0,,2026-03-22T11:14:13.464289,"Step 1: Identify the given information in the problem. We know that the speed of the train is 60 km/hr and the time traveled is 2.5 hours.
+
+Step 2: Recall the formula for calculating distance, which states that Distance = Speed × Time. In this case, we have both values needed to use in our calculation (Speed = 60 km/hr and Time = 2.5 hr).
+
+Step 3: Plug these given values into the formula:
+Distance = Speed × Time
+= 60 km/hr × 2.5 hours
+
+Step 4: Perform multiplication to find the distance traveled"
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,22,Why is the sky blue? Explain step by step.,150.865,2.71,409,0.01,,2026-03-22T11:16:44.330129,"The color of the sky appears blue to us due to a phenomenon called Rayleigh scattering, which involves several steps and principles from physics:
+
+1. Sunlight consists of various colors that make up white light; these are composed of different wavelengths corresponding to each hue we see (e.g., red has longer wavelengths than blue). When sunlight enters Earth's atmosphere, it encounters molecules and small particles in the air such as nitrogen and oxygen.
+
+2. As light travels through these atmos"
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,23,A farmer has 17 sheep. All but 9 die. How many are left? Explain.,22.095,3.26,72,0.0,,2026-03-22T11:17:06.425899,"The phrase ""all but 9 die"" means that out of the total number of sheep, 9 remain alive. The information about how many died is not directly relevant to finding out how many are left because it's already stated that 9 survived. So, regardless of whether all other sheep (which would be a total of 17 - 9 = 8) die or not, the number of sheep remaining will still be 9."
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,24,"If you have a 3-litre jug and a 5-litre jug, how do you measure exactly 4 litres?",42.612,2.39,102,0.0,,2026-03-22T11:17:49.038703,"Here's one way to measure exactly 4 litres using a 3-litre jug and a 5-litre jug:
+
+1. Fill the 3-litre jug completely (3L).
+2. Pour the water from the 3-litre jug into the 5-litre jug.
+3. Refill the 3-litre jug again, this time adding only 1 litre to the 5-litre jug that already contains 3 litres of water (totaling now 4L in the 5-litre jug). To do so: fill up the 3-litre jug and pour it into the 5-litre jug until there's space for only one more liter.
+   
+Now you have exactly 4 litres measured "
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,25,"What comes next in this sequence: 2, 4, 8, 16, ___? Why?",44.396,2.84,126,0.0,,2026-03-22T11:18:33.434950,"The next number in the sequence is 32. This sequence follows a pattern where each term is obtained by multiplying the previous term by 2 (i.e., it's a geometric progression with a common ratio of 2). Here's how it works:
+
+- Starting from 2, multiply by 2 to get the next number: 2 * 2 = 4
+- Then take that result and again multiply by 2: 4 * 2 = 8
+- Continue this pattern for each subsequent term: 8 * 2 = 16
+
+Following this rule, we can find the missing value in the sequence as follows:
+
+16 * 2 = 3"
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,26,A store sells apples for $0.50 each. You buy 7. How much change from $5?,22.631,2.25,51,0.0,,2026-03-22T11:18:56.066226,"If one apple costs $0.50, then seven apples would cost:
+
+$0.50 * 7 = $3.50
+
+You paid with a $5 bill, so to find out how much change you should receive, subtract the total cost of the apples from $5:
+
+$5 - $3.50 = $1.50
+
+So your change would be $1.50."
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,27,"If all roses are flowers and some flowers fade quickly, can we conclude all roses fade quickly? Explain.",80.508,3.04,245,0.0,,2026-03-22T11:20:16.575195,"No, from the given statements ""all roses are flowers"" and ""some flowers fade quickly,"" we cannot logically conclude that *all* roses fade quickly. Here's why:
+
+1. The first statement tells us about a relationship between all members of one set (roses) to another larger set they belong in (flowers). It doesn’t provide any information on the characteristics or behaviors within this subset, such as how fast flowers might wilt.
+2. The second statement informs that there is an overlap where some elem"
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,28,A bat and ball cost $1.10 total. The bat costs $1 more than the ball. How much does the ball cost?,51.265,2.4,123,0.0,,2026-03-22T11:21:07.840926,"Let's denote the cost of the ball as x dollars. According to the problem, the bat costs $1 more than the ball, so the cost of the bat is x + $1. Together, they cost $1.10 (which can also be written as 110 cents for easier calculation).
+
+So we have:
+x (cost of the ball) + (x + $1) (cost of the bat) = $1.10
+
+Combining like terms, we get:
+2x + $1 = $1.10
+
+Subtract $1 from both sides to isolate 2x on one side:
+2x = $1.10 - $1
+2x = $0.10
+
+Now divide by 2 to solve for x (the cost of the ball):
+x = $0."
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,29,Why do heavier objects and lighter objects fall at the same speed in a vacuum?,156.222,2.85,445,0.01,,2026-03-22T11:23:44.064050,"In a vacuum, where there is no air resistance or any other form of drag force acting on an object due to its interaction with fluid (like Earth's atmosphere), all objects accelerate downwards at the same rate regardless of their mass. This phenomenon can be explained by Newton’s second law and his universal law of gravitation:
+
+1. **Newton's Second Law** states that force equals mass times acceleration ($F = ma$). When an object is in free fall, gravity exerts a downward force on it equal to its"
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,30,"If today is Wednesday and a meeting is in 10 days, what day is the meeting?",59.457,3.03,180,0.0,,2026-03-22T11:24:43.521359,"To determine on which day of the week the meeting will occur if it's scheduled for 10 days from now, we can simply add seven to find out when next Monday would be (since there are exactly two weeks between any given Wednesday and its corresponding Monday). From that point:
+
+- Thursday is one day after.
+- Friday follows on the second day.
+- Saturday comes third.
+- Sunday marks four days from now.
+- The fifth day brings us to Monday, which would be two weeks away plus an additional three days (Mon"
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,31,You flip a fair coin 3 times and get heads each time. What is the probability of heads on the 4th flip? Why?,68.067,2.79,190,0.0,,2026-03-22T11:25:51.589592,"The probability of getting heads on the 4th flip remains 0.5 or 50%, regardless of previous outcomes in independent events like coin tosses. This principle stems from the concept that each coin flip is an independent event, meaning its outcome does not depend on any other flips' results.
+
+Here’s why: When you throw a fair coin (meaning it has no bias), there are two equally likely outcomes - heads or tails. So for every single toss of the coin, regardless of what happened beforehand, your chance"
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,32,A snail climbs 3 metres up a wall each day but slides back 2 metres each night. How many days to climb 10 metres?,96.778,2.98,288,0.0,,2026-03-22T11:27:28.367975,"Let's break down the problem step by step:
+
+1. Each full cycle (day and night), the net progress of the snail is only 1 metre upwards because it gains 3 meters during the day but loses 2 at night, resulting in a total gain of just 1 meter per cycle.
+2. However, on reaching or surpassing any height that's more than what was gained from previous cycles (i.e., after climbing for several days), it won't slide back down during the final day since there will be no night left to ""slide"" into: 
+   - Aft"
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,33,Explain why -1 × -1 = 1 using a real-world analogy.,79.807,3.02,241,0.0,,2026-03-22T11:28:48.175743,"Imagine you have two debts, each of equal value (let's say $1). When someone owes you money twice over ($2 in total), it might seem like they are still ""owing"" more because the amount is doubled; however, if both instances were to be cancelled out or paid off simultaneously by a single payment that covers them fully (-$2), then effectively there's no longer any debt.
+
+In this analogy: 
+- The two separate $1 debts represent -1 each (since owing money is like having negative value).
+- Combining bo"
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,34,"If a pizza is cut into 8 slices and you eat 3, what percentage remains?",44.845,2.34,105,0.0,,2026-03-22T11:29:33.022061,"To find out the remaining percentage of the pizza after eating 3 slices from an original total of 8 slices:
+
+1. First calculate how many slices are left by subtracting the number consumed (3) from the initial amount (8):
+   Remaining Slices = Initial Slices - Consumed Slices
+                              = 8 - 3
+                              = 5
+2. Then, to find out what percentage these remaining slices represent of the whole pizza:
+    Percentage Left = (Remaining Slices / Total Slices) * 100%"
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,35,Two trains 200km apart travel toward each other at 80km/h and 70km/h. When do they meet?,45.387,2.53,115,0.0,,2026-03-22T11:30:18.409817,"To solve this problem, we need to determine how long it will take for the two trains to cover a combined distance of 200 km when moving towards each other.
+
+First, let's find out their relative speed:
+Relative Speed = Speed of Train A + Speed of Train B
+                         = 80 km/h + 70 km/h
+                         = 150 km/h
+
+Now we can use the formula for time (Time = Distance / Relative Speed):
+
+Time taken to meet = Total distance between them / Their relative speed
+                   "
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,36,Is it possible for a number to be both even and odd? Explain why or why not.,106.143,2.93,311,0.01,,2026-03-22T11:32:04.553110,"No, it is not possible for a single number to simultaneously possess the properties of being both even and odd. The definitions of these two categories are mutually exclusive based on their mathematical characteristics:
+
+1. An **even** number can be defined as any integer that is divisible by 2 without leaving a remainder. In other words, when an even number (let's call it 'n') is divided by 2, the result will always yield another whole number with no fractional part left over: n = 2k for some i"
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,37,"If you put $1000 in a bank at 5% annual interest, how much will you have after 2 years?",57.394,2.35,135,0.0,,2026-03-22T11:33:01.948344,"To calculate the amount of money accumulated over time with compound interest (assuming it's compounded annually), we use the formula:
+
+A = P(1 + r/n)^(nt)
+
+where:
+- A is the final amount that will be in the account after t years.
+- P is the principal amount ($1000).
+- r is the annual interest rate (5%, or 0.05 as a decimal).
+- n is the number of times that interest is compounded per year (since it's not specified, we assume once annually so n = 1).
+- t is the time in years (2 years for this que"
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,38,Why does ice float on water? What would happen to aquatic life if it didn't?,253.451,2.65,671,0.01,,2026-03-22T11:37:15.400031,"Ice floats on water because of the unique molecular structure and properties of water. Water is a polar molecule, meaning that its atoms have an uneven distribution of charge due to differences in electronegativity between hydrogen and oxygen atoms within each H2O molecule. This causes positive charges near the hydrogens (H) and negative charges around the oxygen atom (O), leading to a bent shape with polar covalent bonds that create partial dipoles throughout the liquid water structure.
+
+When w"
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,39,A room has 4 corners. In each corner sits a cat. Each cat sees 3 other cats. How many cats are there?,35.037,3.08,108,0.0,,2026-03-22T11:37:50.437223,"There are still only 4 cats in total. Here's the reasoning: Since it is stated that ""each cat sees 3 other cats,"" we can infer that each cat has two neighbors (one on either side) and one more across from them, making three visible to any given cat within this room configuration. However, since there are only four corners in a square-shaped room, the fourth corner would be opposite another corner where its respective cat is sitting. Therefore, no matter which perspective you take, each of the 4 "
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,40,Explain the trolley problem and what it reveals about moral reasoning.,99.338,2.97,295,0.0,,2026-03-22T11:39:29.775560,"The Trolley Problem is a thought experiment in ethics, first introduced by Philippa Foot in 1967. It presents an individual with a difficult choice: A runaway trolley is barreling down the tracks towards five people who are tied up and unable to move. The only way to save them would be for you to pull a lever that diverts the trolley onto another track, where it will kill one person instead of five.
+
+The dilemma raises questions about moral reasoning by forcing individuals to choose between two "
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,41,Summarize the concept of machine learning in 2 sentences.,18.475,3.63,67,0.0,,2026-03-22T11:39:48.250973,"Machine learning is a subset of artificial intelligence that involves training algorithms to make predictions or decisions based on data, without being explicitly programmed for specific tasks; it enables computers to learn from and adapt to new information through experience. This process improves over time as the algorithm processes more data, leading to increasingly accurate models in applications like image recognition, natural language processing, and predictive analytics."
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,42,Explain cloud computing to a 10-year-old.,98.464,3.33,328,0.0,,2026-03-22T11:41:26.715283,"Imagine you have lots of different computers in your house, but instead of having them all take up space and use electricity at home, there's this big invisible room called ""the internet"" where these computer friends live together far away from each other around the world. Now, when you want to play a game or look for information on how plants grow, you don’t need your own super-powerful computer; instead, you can ask one of those distant computers in this big room through something called ""clou"
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,43,Summarize the theory of evolution in 3 sentences.,28.949,3.42,99,0.0,,2026-03-22T11:41:55.664481,"The theory of evolution, primarily attributed to Charles Darwin's work ""On the Origin of Species,"" posits that species change over time through a process called natural selection where individuals with advantageous traits are more likely to survive and reproduce. Genetic variations within populations can lead to new characteristics which may offer better adaptation or reproductive success in changing environments, thus passing on these beneficial genes to future generations. Over long periods of"
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,44,Explain what the internet is in simple terms.,63.5,3.54,225,0.0,,2026-03-22T11:42:59.165186,"The Internet is like a huge, global network of computers connected together that can share information with each other instantly no matter where they are located around the world. Imagine it as an enormous library or marketplace where you have access to countless books (information) and products from different places at any time without having to physically travel there – this is what using the Internet allows us!
+
+Here's how it works: Whenever we want information, like looking up a fact on Wiki"
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,45,Summarize the main causes of World War I in 2 sentences.,21.924,2.96,65,0.0,,2026-03-22T11:43:21.090292,"The primary causes of World War I were a complex web of alliances, militarism, imperialism, and nationalism that created an environment ripe for conflict; tensions escalated following the assassination of Archduke Franz Ferdinand of Austria-Hungary in Sarajevo by a Serbian nationalist. The rigid system of alliances compelled countries into war after one nation's aggression, leading to a widespread continental confrontation known as ""The Great War."""
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,46,Explain blockchain technology to a non-technical person.,147.411,2.96,436,0.0,,2026-03-22T11:45:48.501991,"Imagine you have a magical diary that records every single transaction or exchange of goods and services between people, but with one special twist: once something is written in this diary, it cannot be changed or erased by anyone—not even the author themselves. This ensures complete transparency and trust among all parties involved because everyone can see what has been recorded without fear that someone will alter their history to deceive others later on.
+
+Now let's take a step further into th"
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,47,Summarize what DNA is and why it matters in 2 sentences.,32.012,2.59,83,0.0,,2026-03-22T11:46:20.514943,"DNA, or deoxyribonucleic acid, is the hereditary material in humans and almost all other organisms that carries genetic information crucial for growth, development, functioning, and reproduction; its study has led to significant advancements in medicine, biotechnology, and understanding of life's diversity.
+
+
+In two sentences: DNA is a molecule composed of nucleotides forming the blueprint that dictates an organism’s traits through genetic coding—it matters because it enables inheritance across "
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,48,Explain the water cycle to a child.,121.86,2.85,347,0.0,,2026-03-22T11:48:22.375116,"Alright, imagine you have a magic potion that can turn into different things and then change back again! The Earth has its own kind of magical drink called ""water,"" which goes through this amazing journey we call the water cycle:
+
+1. **Evaporation** - When it's sunny outside, our special liquid (like from a pond or ocean) gets warm and turns into invisible steam that rises up high in the sky—this is like when you see your breath on cold days! This process of turning to vapor is called evaporatio"
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,49,Summarize the concept of supply and demand in economics.,27.868,3.59,100,0.0,,2026-03-22T11:48:50.243178,"Supply and demand are fundamental economic principles that describe how prices fluctuate based on availability (supply) and desire for a product or service (demand). The law of supply states that producers will offer more products at higher prices, while the law of demand suggests consumers buy less as price increases. When both forces align—where quantity supplied equals quantity demanded—the market is in equilibrium with an established stable price point. Shifts in either curve due to external"
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,50,Explain what a black hole is in simple terms.,89.052,3.42,305,0.0,,2026-03-22T11:50:19.295758,"A black hole is like an extremely dense and powerful cosmic vacuum cleaner of space that has such strong gravity, not even light can escape from it once something gets too close. Imagine if you had a really heavy bowling ball placed on the trampoline; this creates a deep dip in its surface. Now imagine rolling marbles around it—they'd spiral down into the dip and get stuck there because of gravity pulling them towards that spot, which is similar to how matter behaves near black holes due to thei"
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,51,Summarize the French Revolution in 3 sentences.,39.721,3.1,123,0.0,,2026-03-22T11:50:59.017669,"The French Revolution, lasting from 1789 to 1799, was a period of radical social and political upheaval in France that profoundly affected European history; it marked the decline of absolute monarchies while propelling ideas like liberty, equality, fraternity into prominence. Sparked by financial crisis and widespread discontent among commoners due to inequality before law (estates system), revolutionaries overthrew King Louis XVI leading to his execution in 1793; the era saw significant events "
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,52,Explain artificial intelligence to someone who has never heard of it.,95.18,3.26,310,0.01,,2026-03-22T11:52:34.198020,"Artificial Intelligence, often abbreviated as AI, is a branch of computer science that focuses on creating machines capable of performing tasks which typically require human intellect and cognitive abilities such as learning from experience, recognizing patterns, solving problems, understanding natural language, making decisions based on incomplete information, adapting to new situations without explicit programming for each scenario.
+
+Imagine a tool or system that can think like humans but is n"
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,53,Summarize how vaccines work in 2 sentences.,23.924,2.72,65,0.0,,2026-03-22T11:52:58.122603,"Vaccines stimulate the body's immune system to recognize and fight pathogens, such as viruses or bacteria, by introducing a harmless piece of their genetic material (like mRNA) which prompts cells to produce an antigen that triggers an adaptive response without causing disease. This prepares the body's immune system for future encounters with the actual pathogen, leading to quicker and more effective responses upon subsequent exposures."
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,54,Explain what inflation is using a simple everyday example.,87.903,3.31,291,0.0,,2026-03-22T11:54:26.026193,"Inflation refers to the general increase in prices and fall in the purchasing value of money over time. To understand this concept with an everyday example, imagine you go grocery shopping regularly for your family's weekly meals. Let’s say a loaf of bread costs $2 today at your local store.
+
+Now fast forward one year and due to inflation, the price has risen to $3 per loaf without any change in its quality or production cost. This means that with money you had saved for buying groceries last we"
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,55,Summarize the plot of Romeo and Juliet in 3 sentences.,34.368,2.82,97,0.0,,2026-03-22T11:55:00.394335,"Romeo Montague and Juliet Capulet, two young star-crossed lovers from feuding families in Verona, fall deeply in love but must keep their relationship a secret due to their parents' ongoing conflict. Their clandestine marriage intensifies the animosity between their households, leading to tragic consequences including multiple deaths and ultimately forcing both Romeo and Juliet to take drastic measures that result in each other’s suicide upon discovering the demise of one another. The heartbreak"
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,56,Explain what photosynthesis is to a 10-year-old.,85.009,3.07,261,0.0,,2026-03-22T11:56:25.404456,"Hey there! Imagine you're in your backyard on a sunny day, and the plants around are like little green chefs cooking up their own food using just three simple ingredients: sunlight, water from rain or garden hose, and air that we breathe out. This special recipe is called photosynthesis!
+
+Here's how it works in super-simple steps for you to understand:
+1. The plants catch the warm rays of the sun with their leaves like a net capturing butterflies—except these are not insects, they’re light parti"
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,57,Summarize the key ideas of democracy in 2 sentences.,21.921,3.06,67,0.0,,2026-03-22T11:56:47.325934,"Democracy is a system of government where power lies with the people, either directly or through elected representatives; it emphasizes equality and freedom for all citizens to participate in political decision-making processes that affect their lives. It upholds principles such as majority rule while protecting minority rights, ensuring transparency, accountability, and adherence to a set of laws designed to safeguard individual liberties within the collective governance framework."
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,58,Explain what a CPU does inside a computer in simple terms.,91.389,3.37,308,0.0,,2026-03-22T11:58:18.715400,"A Central Processing Unit (CPU) is like the brain of your computer. It's responsible for interpreting and executing instructions from programs or software applications you use on your device, such as word processors, games, web browsers, etc. Here’s a simplified explanation: Whenever you click something in an application, tell it to save data, move files around, play music, run simulations, the CPU is at work processing these commands into actions that make things happen or change on your screen"
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,59,Summarize the life cycle of a star in 3 sentences.,47.342,3.19,151,0.0,,2026-03-22T11:59:06.058091,"1. A star begins its lifecycle as a cloud of dust and gas, known as a nebula, which collapses under gravity to form a protostar; nuclear fusion ignites once temperatures reach millions of degrees Celsius at the core.
+2. The main sequence phase is where stars spend most of their lives fusing hydrogen into helium in their cores while balancing gravitational forces with radiation pressure, maintaining stability and emitting light for billions to trillion years depending on mass; our Sun currently r"
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,60,Explain the concept of gravity to a child.,61.314,3.41,209,0.0,,2026-03-22T12:00:07.372249,"Imagine you have a ball and when you let it go, what happens? It falls down towards the ground instead of floating away or going up into the sky like balloons do. This is because there's something called ""gravity."" Gravity is like an invisible friend that pulls everything toward each other; just as your toys stay on a table and don’t float off, gravity keeps them in place too!
+
+Now think about when you jump up into the air—you come back down. That happens because Earth has its own big ball of ro"
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,61,Write a Python function to reverse a string.,29.739,2.05,61,0.0,,2026-03-22T12:00:37.112390,"Here is a simple Python function that reverses a given string:
+
+```python
+def reverse_string(s):
+    return s[::-1]
+
+# Example usage:
+original_string = ""hello""
+reversed_string = reverse_string(original_string)
+print(""Original String:"", original_string)
+print(""Reversed String:"", reversed_string)
+```
+
+This function uses Python's slicing feature to create a new string that is the inverse of `s`. The `[::-1]` slice means start at the end (`-1`) and move backwards."
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,62,Write a Python function to check if a number is prime.,83.381,2.51,209,0.0,,2026-03-22T12:02:00.494430,"Here's a simple Python function that checks whether a given number `n` is prime:
+
+```python
+def is_prime(n):
+    """"""Check if the provided integer n is a prime number.""""""
+    
+    # Corner cases
+    if n <= 1:
+        return False
+    elif n <= 3:
+        return True
+        
+    # If n is divisible by 2 or 3, it's not prime.
+    if n % 2 == 0 or n % 3 == 0:
+        return False
+    
+    i = 5
+    while i * i <= n:
+        # Check for factors of the form (6k±1) up to sqrt(n).
+        if n % i == "
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,63,Write a Python function to calculate the factorial of a number.,53.502,2.77,148,0.0,,2026-03-22T12:02:53.996767,"Here is a simple implementation in Python using recursion:
+
+```python
+def factorial(n):
+    if n == 0 or n == 1:
+        return 1
+    else:
+        return n * factorial(n-1)
+
+# Example usage:
+number = 5
+print(f""The factorial of {number} is {factorial(number)}"")
+```
+This function checks if the input number `n` is either 0 or 1, in which case it returns 1 (since both have a factorial value of 1). For any other positive integer, it recursively multiplies that number by the result of calling itself "
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,64,Write a Python function to find the largest number in a list.,44.315,2.48,110,0.0,,2026-03-22T12:03:38.312487,"Here is a simple Python function that finds and returns the largest number from a given list:
+
+```python
+def find_largest_number(numbers):
+    """"""Finds the largest number in a list.""""""
+    
+    # Check if the input list is not empty to avoid errors.
+    if len(numbers) == 0:
+        return None
+        
+    max_num = numbers[0]  # Assume first element as maximum initially.
+    
+    for num in numbers:
+        if num > max_num:
+            max_num = num  # Update the largest number found so far.
+"
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,65,Write a Python function that returns the Fibonacci sequence up to n terms.,74.397,2.26,168,0.0,,2026-03-22T12:04:52.710020,"Here is an example of how you could write such a function in Python:
+
+```python
+def fibonacci(n):
+    if n <= 0:
+        return []
+    elif n == 1:
+        return [0]
+    elif n == 2:
+        return [0, 1]
+    
+    sequence = [0, 1]
+    for i in range(2, n):
+        next_value = sequence[i-1] + sequence[i-2]
+        sequence.append(next_value)
+        
+    return sequence
+```
+This function starts by handling the edge cases where `n` is less than or equal to 0 (in which case it returns an empty l"
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,66,Write a Python function to count the vowels in a string.,50.98,2.14,109,0.0,,2026-03-22T12:05:43.691015,"Here is a simple Python function that counts and returns the number of vowels (both uppercase and lowercase) present in a given string:
+
+```python
+def count_vowels(input_string):
+    # Define all possible vowels, both lower case and upper case.
+    vowels = 'aeiouAEIOU'
+    
+    # Initialize the counter to 0.
+    num_of_vowels = 0
+    
+    # Iterate over each character in input string.
+    for char in input_string:
+        if char in vowels:
+            num_of_vowels += 1   # Increment the count"
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,67,Write a Python function to check if a string is a palindrome.,65.421,2.29,150,0.0,,2026-03-22T12:06:49.112392,"Here's a simple Python function that checks whether a given string is a palindrome:
+
+```python
+def is_palindrome(s):
+    # Remove spaces and convert the string into lowercase for uniformity
+    cleaned_string = ''.join(s.split()).lower()
+    
+    # Compare the original string with its reverse
+    return cleaned_string == cleaned_string[::-1]
+```
+
+You can use this function like so:
+
+```python
+print(is_palindrome(""racecar""))  # Outputs True, because ""racecar"" is a palindrome.
+print(is_palindrome("""
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,68,Write a Python function to flatten a nested list.,42.613,0.0,0,0.0,Remote end closed connection without response,2026-03-22T12:07:31.725828,
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,69,Write a Python function to remove duplicates from a list while preserving order.,0.004,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.731006,
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,70,Write a Python function to merge two sorted lists into one sorted list.,0.004,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.737184,
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,71,"Write a Python class for a simple stack with push, pop, and peek methods.",0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.738894,
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,72,Write a Python function to perform binary search on a sorted list.,0.004,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.743574,
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,73,Write a Python function to convert Celsius to Fahrenheit.,0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.744740,
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,74,Write a Python decorator that measures the execution time of a function.,0.0,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.745671,
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,75,Write a Python function to count word frequency in a sentence.,0.0,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.752795,
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,76,Write a Python function that rotates a list by k positions.,0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.754210,
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,77,Write a Python context manager that logs when a block of code starts and ends.,0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.755342,
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,78,Write a Python generator that yields prime numbers indefinitely.,0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.759893,
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,79,Write a Python function using recursion to solve the Tower of Hanoi problem.,0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.760937,
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,80,Write a Python function to validate an email address using regex.,0.004,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.765601,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,81,Write a 3-sentence story about a robot learning to cook.,0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.766752,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,82,List 5 creative uses for an empty cardboard box.,0.0,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.768321,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,83,Write a short poem about the ocean at night.,0.004,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.772571,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,84,Describe an alien civilisation that communicates through colour.,0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.783209,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,85,Write a motivational speech for someone starting their first job.,0.008,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.791860,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,86,Invent a new sport that can be played indoors by two people. Describe the rules.,0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.793894,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,87,Write a letter from the perspective of the last tree in a forest.,0.004,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.807544,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,88,Describe a city in the year 2200 in 4 sentences.,0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.812789,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,89,Write a dialogue between the Sun and the Moon meeting for the first time.,0.002,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.817920,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,90,List 5 unusual but practical inventions the world needs.,0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.824733,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,91,Write a short mystery story that ends with an unexpected twist in 5 sentences.,0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.825959,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,92,Describe what music would look like if it were visible.,0.002,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.829190,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,93,Write a bedtime story for a child who is afraid of the dark.,0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.833744,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,94,Invent a new holiday and describe how people would celebrate it.,0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.834827,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,95,Write a product review for a time machine.,0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.837323,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,96,Describe what it would feel like to live on Mars in 4 sentences.,0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.841540,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,97,Write a conversation between a smartphone and a typewriter.,0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.843304,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,98,List 5 things that would be different if humans had no sense of smell.,0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.845169,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,99,Write a news headline from 100 years in the future.,0.001,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.846188,
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,100,Describe the most interesting job that doesn't exist yet.,0.0,0.0,0,0.0,<urlopen error [Errno 111] Connection refused>,2026-03-22T12:07:31.847094,
