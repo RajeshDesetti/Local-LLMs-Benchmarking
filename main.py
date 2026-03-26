@@ -2,7 +2,7 @@ from fastapi import FastAPI
 from models import QueryRequest, QueryResponse
 from ollama_client import query_model
 
-app = FastAPI(title='Local SLM Benchmarking API')
+app = FastAPI(title='Local LLM Benchmarking API')
 
 @app.get('/health')
 def health():

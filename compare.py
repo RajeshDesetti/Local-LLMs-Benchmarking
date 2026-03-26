@@ -3,8 +3,8 @@ import os
 
 def compare():
     # ── Load both CSVs ────────────────────────────────────────────────────
-    base  = pd.read_csv("results/benchmark_results_1.csv")
-    quant = pd.read_csv("results/quantized_benchmark_results_1.csv")
+    base  = pd.read_csv("results/benchmark_results_2_api.csv")
+    quant = pd.read_csv("results/quantized_benchmark_results_2_api.csv")
 
     # Keep only base models in base CSV (filter out quantized if mixed)
     base_model_names  = ["llama3.2:3b", "phi3.5", "mistral"]
@@ -82,7 +82,7 @@ def compare():
     # ── Save comparison summary ───────────────────────────────────────────
     os.makedirs("results", exist_ok=True)
     summary_df = pd.DataFrame(summary_rows)
-    summary_df.to_csv("results/comparison_summary.csv", index=False)
+    summary_df.to_csv("results/comparison_summary_2_api.csv", index=False)
     print("\nComparison saved to results/comparison_summary.csv")
 
 

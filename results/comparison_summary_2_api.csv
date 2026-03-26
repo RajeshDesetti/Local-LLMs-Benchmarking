@@ -1,0 +1,3 @@
+base_model,quant_model,base_time_s,quant_time_s,time_change_pct,base_wps,quant_wps,wps_change_pct,base_memory_mb,quant_memory_mb,memory_change_pct
+llama3.2:3b,llama3.2:3b-instruct-q4_K_M,12.59,12.418,-1.37,5.898,5.992,1.59,0.0,0.0,0
+phi3.5,phi3.5:3.8b-mini-instruct-q5_K_M,18.912,23.587,24.72,4.542,3.692,-18.71,0.0,0.0,0

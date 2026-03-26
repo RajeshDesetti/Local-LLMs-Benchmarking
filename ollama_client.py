@@ -3,12 +3,22 @@ import requests, time, psutil, os
 def query_model(model_name, prompt, temperature=0.0):
     start = time.time()
     response = requests.post('http://localhost:11434/api/generate',
+        # json={
+        #     'model': model_name,
+        #     'prompt': prompt,
+        #     'stream': False,
+        #     'options': {'temperature': temperature}
+        # }
         json={
-            'model': model_name,
-            'prompt': prompt,
-            'stream': False,
-            'options': {'temperature': temperature}
-        })
+        'model': model_name,
+        'prompt': prompt,
+        'stream': False,
+        'options': {
+        'temperature': temperature,
+        'num_predict': 150
+  }
+}
+        )
     elapsed = time.time() - start
     data = response.json()
     return {

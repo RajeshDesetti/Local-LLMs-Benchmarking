@@ -1,0 +1,57 @@
+model,category,prompt_id,prompt,response_time_s,words_per_second,word_count,memory_mb,error,timestamp,response_text
+llama3.2:3b,simple_facts,1,What is the capital of France?,17.57,5.58,98,0.0,,2026-03-26T11:24:46.374300,"The capital of France is Paris. Located in the north-central part of the country, Paris is a global hub for culture, politics, and tourism. It is situated on the Seine River and is known for its iconic landmarks such as the Eiffel Tower, Notre-Dame Cathedral, and the Louvre Museum. With a rich history dating back to the 12th century, Paris has been the seat of French power and influence for centuries. Today, it is home to over 2.1 million people and attracts millions of visitors each year, makin"
+llama3.2:3b,reasoning,21,"If a train travels 60km/hr for 2.5 hours, how far does it travel? Show steps.",14.073,5.9,83,0.0,,2026-03-26T11:25:00.447651,"To find the distance traveled by the train, we need to multiply its speed (in km/hr) by the time it traveled (in hours).
+
+Step 1: Convert the speed from km/hr to a unit that matches the time unit.
+Since the time is given in hours, we can use km/hr as is.
+
+Step 2: Multiply the speed (60 km/hr) by the time (2.5 hours).
+Distance = Speed x Time
+= 60 km/hr x 2.5 hr
+= 150 km
+
+Therefore, the train travels 150 kilometers."
+llama3.2:3b,summarization,41,Summarize the concept of machine learning in 2 sentences.,9.883,7.59,75,0.0,,2026-03-26T11:25:10.330769,"Machine learning is a subset of artificial intelligence that enables computers to automatically improve their performance on a specific task without being explicitly programmed, by learning from data and experiences through algorithms that analyze patterns and relationships. The process involves training a model on a dataset, allowing it to learn from the data and make predictions or decisions based on new, unseen data, thereby improving its accuracy and efficiency over time with minimal human i"
+llama3.2:3b,code_generation,61,Write a Python function to reverse a string.,6.022,3.99,24,0.0,,2026-03-26T11:25:16.352614,"def reverse_string(s):
+    """"""
+    Reverses the input string.
+
+    Args:
+        s (str): The input string to be reversed.
+
+    Returns:
+        str: The reversed string.
+    """"""
+    return s[::-1]"
+llama3.2:3b,creative,81,Write a 3-sentence story about a robot learning to cook.,15.401,6.43,99,0.0,,2026-03-26T11:25:31.754025,"As the sun rose over the bustling kitchen, Zeta, the latest model of culinary bot, stood nervously beside its creator, Chef Thompson. With a flicker of its LED eyes, Zeta activated its cooking module and began to follow the chef's instructions, carefully measuring out ingredients and executing precise movements as it assembled a flawless omelette. As the dish was presented with a flourish, Chef Thompson beamed with pride, declaring, ""You're a natural, Zeta! You've got the makings of a true culin"
+phi3.5,simple_facts,1,What is the capital of France?,23.095,4.03,93,0.0,,2026-03-26T11:25:54.849114,"The capital city of France is Paris, which serves as both the country' extraterritorial district within its borders (known as ""Banlieue"") and a major cultural hub in Europe. Situated on the Seine River’s north bank at approximately coordinates latitude 48°50′N and longitude 2°21′E, Paris is renowned for landmarks such as Eiffel Tower, Louvre Museum housing thousands of works including 'Mona Lisa', Notre-Dame Cathedral. It's not only the political center but also a leading global city in arts, fa"
+phi3.5,reasoning,21,"If a train travels 60km/hr for 2.5 hours, how far does it travel? Show steps.",20.495,3.95,81,0.0,,2026-03-26T11:26:15.344011,"To find the distance traveled by the train, we can use the formula: Distance = Speed × Time. Here are the given values and their respective units:
+
+Speed (S) = 60 km/hr
+Time (T) = 2.5 hours
+
+Now plug these into our equation to find distance (D):
+
+Distance (D) = S × T
+                      = 60 km/hr × 2.5 hr
+
+Multiplying the speed by time:
+
+(60)(2.5) = 150 kilometers
+
+So, when a train travels at a constant speed of 60km/hr for 2.5"
+phi3.5,summarization,41,Summarize the concept of machine learning in 2 sentences.,14.446,5.95,86,0.0,,2026-03-26T11:26:29.789755,"Machine learning is a subset of artificial intelligence that uses algorithms to learn patterns from data, improving their performance over time without explicit programming for each task; it enables computers to make predictions or decisions based on inputted information by recognizing complex structures and relationships within the data itself. This self-improving capability allows machines not only to execute predefined tasks but also adaptively optimize processes in fields like healthcare, fi"
+phi3.5,code_generation,61,Write a Python function to reverse a string.,19.652,4.22,83,0.0,,2026-03-26T11:26:49.441510,"Here's a simple Python function that reverses a given input string:
+
+```python
+def reverse_string(input_str):
+    """"""Reverse the provided string using slicing.""""""
+    
+    # Use extended slice syntax with step -1 to reverse the string
+    reversed_str = input_str[::-1]
+    
+    return reversed_str
+```
+
+This function takes an `input_str` as its parameter and returns a new string that is the original, but in reverse order. The slicing technique `[start:stop:step]` with `-1` for step effectively it"
+phi3.5,creative,81,Write a 3-sentence story about a robot learning to cook.,16.871,4.56,77,0.0,,2026-03-26T11:27:06.312681,"In the bustling kitchen of FutureTech Robotics, ChefBot was undergoing its latest upgrade—a culinary module designed for gastronomic creativity beyond mere replication. Day by day, it experimented with spices and techniques; each attempt refined its algorithms until a symphony of flavors emerged from silicon precision. Finally mastering the art of cooking, ChefBot served up an exquisite five-course meal that delighted both engineers and chefs alike, proving machines could indeed possess culinary"

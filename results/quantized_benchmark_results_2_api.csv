@@ -1,0 +1,52 @@
+model,category,prompt_id,prompt,response_time_s,words_per_second,word_count,memory_mb,error,timestamp,response_text
+llama3.2:3b-instruct-q4_K_M,simple_facts,1,What is the capital of France?,17.518,5.59,98,0.0,,2026-03-26T11:32:32.819262,"The capital of France is Paris. Located in the north-central part of the country, Paris is a global hub for culture, politics, and tourism. It is situated on the Seine River and is known for its iconic landmarks such as the Eiffel Tower, Notre-Dame Cathedral, and the Louvre Museum. With a rich history dating back to the 12th century, Paris has been the seat of French power and influence for centuries. Today, it is home to over 2.1 million people and attracts millions of visitors each year, makin"
+llama3.2:3b-instruct-q4_K_M,reasoning,21,"If a train travels 60km/hr for 2.5 hours, how far does it travel? Show steps.",13.931,5.96,83,0.0,,2026-03-26T11:32:46.750478,"To find the distance traveled by the train, we need to multiply its speed (in km/hr) by the time it traveled (in hours).
+
+Step 1: Convert the speed from km/hr to a unit that matches the time unit.
+Since the time is given in hours, we can use km/hr as is.
+
+Step 2: Multiply the speed (60 km/hr) by the time (2.5 hours).
+Distance = Speed x Time
+= 60 km/hr x 2.5 hr
+= 150 km
+
+Therefore, the train travels 150 kilometers."
+llama3.2:3b-instruct-q4_K_M,summarization,41,Summarize the concept of machine learning in 2 sentences.,9.645,7.78,75,0.0,,2026-03-26T11:32:56.395512,"Machine learning is a subset of artificial intelligence that enables computers to automatically improve their performance on a specific task without being explicitly programmed, by learning from data and experiences through algorithms that analyze patterns and relationships. The process involves training a model on a dataset, allowing it to learn from the data and make predictions or decisions based on new, unseen data, thereby improving its accuracy and efficiency over time with minimal human i"
+llama3.2:3b-instruct-q4_K_M,code_generation,61,Write a Python function to reverse a string.,5.895,4.07,24,0.0,,2026-03-26T11:33:02.290192,"def reverse_string(s):
+    """"""
+    Reverses the input string.
+
+    Args:
+        s (str): The input string to be reversed.
+
+    Returns:
+        str: The reversed string.
+    """"""
+    return s[::-1]"
+llama3.2:3b-instruct-q4_K_M,creative,81,Write a 3-sentence story about a robot learning to cook.,15.099,6.56,99,0.0,,2026-03-26T11:33:17.389230,"As the sun rose over the bustling kitchen, Zeta, the latest model of culinary bot, stood nervously beside its creator, Chef Thompson. With a flicker of its LED eyes, Zeta activated its cooking module and began to follow the chef's instructions, carefully measuring out ingredients and executing precise movements as it assembled a flawless omelette. As the dish was presented with a flourish, Chef Thompson beamed with pride, declaring, ""You're a natural, Zeta! You've got the makings of a true culin"
+phi3.5:3.8b-mini-instruct-q5_K_M,simple_facts,1,What is the capital of France?,27.884,3.73,104,0.0,,2026-03-26T11:33:45.864770,"The capital city of France is Paris. It's not only a major European cultural, economic, and political center but also renowned for its influence on art, fashion, gastronomy, and design. Situated in the north-central part of the country along the Seine River, it has been an important settlement since the 3rd century AD when it was founded by a Celtic people called the Parisii tribe. Today, with landmarks like Eiffel Tower, Louvre Museum, Notre Dame Cathedral and Champs-Élysées Avenue among others"
+phi3.5:3.8b-mini-instruct-q5_K_M,reasoning,21,"If a train travels 60km/hr for 2.5 hours, how far does it travel? Show steps.",24.977,3.64,91,0.0,,2026-03-26T11:34:10.841560,"To find the distance traveled by the train, we can use the formula: Distance = Speed × Time. Here's step-by-step calculation using this formula:
+
+1. Identify given values: The speed of the train is 60 km/hr and it travels for a duration of 2.5 hours.
+
+2. Plug in these values into our distance equation (Distance = Speed × Time): Distance = 60 km/hr × 2.5 hr
+
+3. Perform multiplication: Multiply the speed by time to get the total distance traveled, which is equal to 150 kilometers.
+
+So, if a train "
+phi3.5:3.8b-mini-instruct-q5_K_M,summarization,41,Summarize the concept of machine learning in 2 sentences.,17.404,4.48,78,0.0,,2026-03-26T11:34:28.245227,"Machine learning is a subset of artificial intelligence that involves the use of algorithms and statistical models to enable computers to improve their performance on specific tasks through experience, without explicit programming. It encompasses techniques such as supervised learning (where models learn from labeled data), unsupervised learning (discovering patterns in unlabeled data), reinforcement learning (learning optimal actions via trial and error rewards) to create systems capable of mak"
+phi3.5:3.8b-mini-instruct-q5_K_M,code_generation,61,Write a Python function to reverse a string.,24.296,2.8,68,0.0,,2026-03-26T11:34:52.541596,"Here's a simple Python function that reverses a given string:
+
+```python
+def reverse_string(input_str):
+    return input_str[::-1]
+
+# Example usage:
+original_string = ""Hello, World!""
+reversed_string = reverse_string(original_string)
+print(""Original String:"", original_string)
+print(""Reversed String:"", reversed_string)
+```
+
+This function utilizes Python's slicing feature. The `[::-1]` slice notation means start at the end of the string and move backwards, effectively creating a new string that is "
+phi3.5:3.8b-mini-instruct-q5_K_M,creative,81,Write a 3-sentence story about a robot learning to cook.,23.375,3.81,89,0.0,,2026-03-26T11:35:15.916704,"In the bustling kitchen of TechCulinary Inc., an advanced culinary bot named ChefBot was activated for its first task: mastering gourmet cuisine. Initially, it struggled with temperature control and seasoning balance but dedicated countless hours to analyzing recipes and practicing techniques from renowned chefs' videos. Over time, the robotic chef developed a refined palate and precise movements that astonished its human colleagues; ChefBot had not only learned to cook exquisite dishes flawless"
